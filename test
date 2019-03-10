@@ -1,0 +1,2 @@
+2019-02-20 13:57:42,755 : {"searched_nodes": 273, "computing_time": 0.008309, "heuristic": true, "mark": -102, "pos": [7, 7], "depth": 2, "nodes_num": 840, "cut_time": 23}
+2019-02-20 13:57:42,755 : 127.0.0.1 - - [20/Feb/2019 13:57:42] "POST /react HTTP/1.1" 200 -

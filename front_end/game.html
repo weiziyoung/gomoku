@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Game</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/layui.css">
+
+</head>
+<body>
+    <div style="display: None">
+        <img src="assets/image/gomoku.png">
+        <img src="assets/image/stone_white.png">
+        <img src="assets/image/stone_black.png">
+        <img src="assets/image/topboard.png">
+        <img src="assets/image/back.png">
+        <img src="assets/image/restart.png">
+    </div>
+    <div id="game">
+        <canvas id="topboard" width="615"></canvas>
+        <canvas id="board" width="615" height="615"></canvas>
+    </div>
+
+</body>
+
+<script src="script/library/jquery-3.3.1.min.js"></script>
+<script src="script/library/layui/layui.js"></script>
+<script src="script/util.js"></script>
+<script src="script/action.js"></script>
+<script>
+layui.use('layer',function(){
+    let layer = layui.layer;
+    $(document).ajaxStart(function(){
+         layer.load(2);
+         });
+    $(document).ajaxStop(function(){
+       setTimeout("layer.closeAll('loading')",500);
+    });
+    }
+);
+</script>
+</html>

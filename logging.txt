@@ -1,0 +1,361 @@
+2019-01-05 11:50:38,733 : {"heuristic": true, "nodes_num": 840, "computing_time": 0.009675, "cut_time": 23, "pos": [7, 7], "depth": 2, "searched_nodes": 84}
+2019-01-05 11:50:38,734 : 127.0.0.1 - - [05/Jan/2019 11:50:38] "POST /react HTTP/1.1" 200 -
+2019-01-05 11:50:40,836 : {"heuristic": true, "nodes_num": 2033, "computing_time": 0.023487, "cut_time": 39, "pos": [8, 8], "depth": 2, "searched_nodes": 231}
+2019-01-05 11:50:40,843 : 127.0.0.1 - - [05/Jan/2019 11:50:40] "POST /react HTTP/1.1" 200 -
+2019-01-05 11:50:43,110 : 127.0.0.1 - - [05/Jan/2019 11:50:43] "GET /front_end/game.html HTTP/1.1" 200 -
+2019-01-05 11:50:43,127 : 127.0.0.1 - - [05/Jan/2019 11:50:43] "GET /front_end/css/style.css HTTP/1.1" 200 -
+2019-01-05 11:50:43,140 : 127.0.0.1 - - [05/Jan/2019 11:50:43] "GET /front_end/css/layui.css HTTP/1.1" 200 -
+2019-01-05 11:50:43,140 : 127.0.0.1 - - [05/Jan/2019 11:50:43] "GET /front_end/assets/image/stone_white.png HTTP/1.1" 200 -
+2019-01-05 11:50:43,141 : 127.0.0.1 - - [05/Jan/2019 11:50:43] "GET /front_end/assets/image/gomoku.png HTTP/1.1" 200 -
+2019-01-05 11:50:43,184 : 127.0.0.1 - - [05/Jan/2019 11:50:43] "GET /front_end/script/library/layui/layui.js HTTP/1.1" 200 -
+2019-01-05 11:50:43,184 : 127.0.0.1 - - [05/Jan/2019 11:50:43] "GET /front_end/script/library/jquery-3.3.1.min.js HTTP/1.1" 200 -
+2019-01-05 11:50:43,193 : 127.0.0.1 - - [05/Jan/2019 11:50:43] "GET /front_end/script/action.js HTTP/1.1" 200 -
+2019-01-05 11:50:43,193 : 127.0.0.1 - - [05/Jan/2019 11:50:43] "GET /front_end/script/util.js HTTP/1.1" 200 -
+2019-01-05 11:50:43,194 : 127.0.0.1 - - [05/Jan/2019 11:50:43] "GET /front_end/assets/image/stone_black.png HTTP/1.1" 200 -
+2019-01-05 11:50:43,197 : 127.0.0.1 - - [05/Jan/2019 11:50:43] "GET /front_end/assets/image/topboard.png HTTP/1.1" 200 -
+2019-01-05 11:50:43,206 : 127.0.0.1 - - [05/Jan/2019 11:50:43] "GET /front_end/assets/image/restart.png HTTP/1.1" 200 -
+2019-01-05 11:50:43,206 : 127.0.0.1 - - [05/Jan/2019 11:50:43] "GET /front_end/assets/image/back.png HTTP/1.1" 200 -
+2019-01-05 11:50:43,371 : 127.0.0.1 - - [05/Jan/2019 11:50:43] "GET /front_end/script/library/layui/lay/modules/layer.js HTTP/1.1" 200 -
+2019-01-05 11:50:43,372 : 127.0.0.1 - - [05/Jan/2019 11:50:43] "GET /front_end/assets/image/robot.png HTTP/1.1" 200 -
+2019-01-05 11:50:43,423 : 127.0.0.1 - - [05/Jan/2019 11:50:43] "GET /front_end/script/library/layui/css/modules/layer/default/layer.css?v=3.1.0 HTTP/1.1" 200 -
+2019-01-05 11:50:43,455 : 127.0.0.1 - - [05/Jan/2019 11:50:43] "GET /favicon.ico HTTP/1.1" 404 -
+2019-01-05 11:50:44,794 : {"heuristic": true, "nodes_num": 54838, "computing_time": 0.593504, "cut_time": 1096, "pos": [7, 7], "depth": 4, "searched_nodes": 5693}
+2019-01-05 11:50:44,794 : 127.0.0.1 - - [05/Jan/2019 11:50:44] "POST /react HTTP/1.1" 200 -
+2019-01-05 11:50:49,578 : {"heuristic": true, "nodes_num": 346311, "computing_time": 3.512212, "cut_time": 5115, "pos": [6, 6], "depth": 4, "searched_nodes": 25551}
+2019-01-05 11:50:49,579 : 127.0.0.1 - - [05/Jan/2019 11:50:49] "POST /react HTTP/1.1" 200 -
+2019-01-05 11:51:23,554 : {"heuristic": true, "nodes_num": 440649, "computing_time": 4.727269, "cut_time": 6198, "pos": [7, 5], "depth": 4, "searched_nodes": 32274}
+2019-01-05 11:51:23,555 : 127.0.0.1 - - [05/Jan/2019 11:51:23] "POST /react HTTP/1.1" 200 -
+2019-01-05 11:51:28,516 : {"heuristic": true, "nodes_num": 316285, "computing_time": 3.479197, "cut_time": 4313, "pos": [7, 8], "depth": 4, "searched_nodes": 17018}
+2019-01-05 11:51:28,517 : 127.0.0.1 - - [05/Jan/2019 11:51:28] "POST /react HTTP/1.1" 200 -
+2019-01-05 11:51:38,186 : {"heuristic": true, "nodes_num": 20079, "computing_time": 0.3179, "cut_time": 175, "pos": [7, 6], "depth": 4, "searched_nodes": 8604}
+2019-01-05 11:51:38,187 : 127.0.0.1 - - [05/Jan/2019 11:51:38] "POST /react HTTP/1.1" 200 -
+2019-01-05 11:51:39,950 : 127.0.0.1 - - [05/Jan/2019 11:51:39] "POST /react HTTP/1.1" 200 -
+2019-01-05 11:51:39,958 : 127.0.0.1 - - [05/Jan/2019 11:51:39] "POST /logging HTTP/1.1" 200 -
+2019-01-05 12:00:18,575 : {"heuristic": true, "nodes_num": 307374, "computing_time": 309.750484, "cut_time": 4189, "pos": [7, 8], "depth": 4, "searched_nodes": 16718}
+2019-01-05 12:00:18,576 : 127.0.0.1 - - [05/Jan/2019 12:00:18] "POST /react HTTP/1.1" 200 -
+2019-01-05 12:00:30,181 : {"heuristic": true, "nodes_num": 54804, "computing_time": 0.596284, "cut_time": 1108, "pos": [7, 7], "depth": 4, "searched_nodes": 5656}
+2019-01-05 12:00:30,182 : 127.0.0.1 - - [05/Jan/2019 12:00:30] "POST /react HTTP/1.1" 200 -
+2019-01-05 12:00:39,283 : {"heuristic": true, "nodes_num": 250317, "computing_time": 2.735987, "cut_time": 4091, "pos": [7, 6], "depth": 4, "searched_nodes": 21568}
+2019-01-05 12:00:39,284 : 127.0.0.1 - - [05/Jan/2019 12:00:39] "POST /react HTTP/1.1" 200 -
+2019-01-05 12:00:47,029 : {"heuristic": true, "nodes_num": 246894, "computing_time": 2.710438, "cut_time": 3524, "pos": [7, 4], "depth": 4, "searched_nodes": 16962}
+2019-01-05 12:00:47,030 : 127.0.0.1 - - [05/Jan/2019 12:00:47] "POST /react HTTP/1.1" 200 -
+2019-01-05 12:00:52,304 : {"heuristic": true, "nodes_num": 217303, "computing_time": 2.376211, "cut_time": 3111, "pos": [7, 5], "depth": 4, "searched_nodes": 14002}
+2019-01-05 12:00:52,305 : 127.0.0.1 - - [05/Jan/2019 12:00:52] "POST /react HTTP/1.1" 200 -
+2019-01-05 12:00:55,249 : {"heuristic": true, "nodes_num": 58148, "computing_time": 0.713904, "cut_time": 771, "pos": [7, 8], "depth": 4, "searched_nodes": 8711}
+2019-01-05 12:00:55,249 : 127.0.0.1 - - [05/Jan/2019 12:00:55] "POST /react HTTP/1.1" 200 -
+2019-01-05 12:01:01,520 : {"heuristic": true, "nodes_num": 393485, "computing_time": 4.698973, "cut_time": 5072, "pos": [8, 8], "depth": 4, "searched_nodes": 30197}
+2019-01-05 12:01:01,521 : 127.0.0.1 - - [05/Jan/2019 12:01:01] "POST /react HTTP/1.1" 200 -
+2019-01-05 12:01:10,367 : {"heuristic": true, "nodes_num": 519302, "computing_time": 6.409918, "cut_time": 6449, "pos": [8, 5], "depth": 4, "searched_nodes": 40596}
+2019-01-05 12:01:10,368 : 127.0.0.1 - - [05/Jan/2019 12:01:10] "POST /react HTTP/1.1" 200 -
+2019-01-05 12:01:23,120 : {"heuristic": true, "nodes_num": 711479, "computing_time": 8.969869, "cut_time": 8133, "pos": [11, 7], "depth": 4, "searched_nodes": 57571}
+2019-01-05 12:01:23,121 : 127.0.0.1 - - [05/Jan/2019 12:01:23] "POST /react HTTP/1.1" 200 -
+2019-01-05 12:01:42,092 : {"heuristic": true, "nodes_num": 938297, "computing_time": 12.172298, "cut_time": 10005, "pos": [12, 9], "depth": 4, "searched_nodes": 66656}
+2019-01-05 12:01:42,095 : 127.0.0.1 - - [05/Jan/2019 12:01:42] "POST /react HTTP/1.1" 200 -
+2019-01-05 12:02:34,531 : {"heuristic": true, "nodes_num": 3179910, "computing_time": 46.441475, "cut_time": 34256, "pos": [9, 10], "depth": 4, "searched_nodes": 602760}
+2019-01-05 12:02:34,532 : 127.0.0.1 - - [05/Jan/2019 12:02:34] "POST /react HTTP/1.1" 200 -
+2019-01-05 12:03:39,464 : {"heuristic": true, "nodes_num": 1040597, "computing_time": 14.036072, "cut_time": 10817, "pos": [13, 6], "depth": 4, "searched_nodes": 64443}
+2019-01-05 12:03:39,464 : 127.0.0.1 - - [05/Jan/2019 12:03:39] "POST /react HTTP/1.1" 200 -
+2019-01-05 12:04:16,326 : {"heuristic": true, "nodes_num": 2125573, "computing_time": 31.210101, "cut_time": 23283, "pos": [10, 10], "depth": 4, "searched_nodes": 124176}
+2019-01-05 12:04:16,327 : 127.0.0.1 - - [05/Jan/2019 12:04:16] "POST /react HTTP/1.1" 200 -
+2019-01-05 12:04:36,262 : {"heuristic": true, "nodes_num": 807430, "computing_time": 11.798529, "cut_time": 8773, "pos": [10, 6], "depth": 4, "searched_nodes": 37857}
+2019-01-05 12:04:36,263 : 127.0.0.1 - - [05/Jan/2019 12:04:36] "POST /react HTTP/1.1" 200 -
+2019-01-05 12:05:34,184 : {"heuristic": true, "nodes_num": 1787965, "computing_time": 27.954322, "cut_time": 20170, "pos": [8, 9], "depth": 4, "searched_nodes": 106157}
+2019-01-05 12:05:34,185 : 127.0.0.1 - - [05/Jan/2019 12:05:34] "POST /react HTTP/1.1" 200 -
+2019-01-05 12:06:13,752 : {"heuristic": true, "nodes_num": 1708105, "computing_time": 27.394739, "cut_time": 19089, "pos": [9, 8], "depth": 4, "searched_nodes": 114175}
+2019-01-05 12:06:13,756 : 127.0.0.1 - - [05/Jan/2019 12:06:13] "POST /react HTTP/1.1" 200 -
+2019-01-05 12:06:52,289 : {"heuristic": true, "nodes_num": 2010539, "computing_time": 32.708741, "cut_time": 21862, "pos": [9, 3], "depth": 4, "searched_nodes": 118704}
+2019-01-05 12:06:52,290 : 127.0.0.1 - - [05/Jan/2019 12:06:52] "POST /react HTTP/1.1" 200 -
+2019-01-05 12:11:44,507 : {"depth": 2, "computing_time": 28.732141, "pos": [3, 11], "heuristic": true, "searched_nodes": 610, "nodes_num": 10501, "cut_time": 96}
+2019-01-05 12:11:44,508 : 127.0.0.1 - - [05/Jan/2019 12:11:44] "POST /react HTTP/1.1" 200 -
+2019-01-05 12:12:17,453 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/main.py', reloading
+2019-01-05 12:17:59,517 : {"pos": [3, 11], "cut_time": 0, "depth": 1, "nodes_num": 100, "computing_time": 55.481388, "searched_nodes": 101, "heuristic": true}
+2019-01-05 12:17:59,518 : 127.0.0.1 - - [05/Jan/2019 12:17:59] "POST /react HTTP/1.1" 200 -
+2019-01-05 12:29:44,712 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/main.py', reloading
+2019-01-05 12:31:06,201 : {"pos": [4, 12], "depth": 4, "searched_nodes": 198876, "computing_time": 63.716766, "heuristic": true, "cut_time": 38888, "nodes_num": 4496360}
+2019-01-05 12:31:06,202 : 127.0.0.1 - - [05/Jan/2019 12:31:06] "POST /react HTTP/1.1" 200 -
+2019-01-05 12:33:05,849 : {"pos": [11, 6], "depth": 4, "searched_nodes": 183889, "computing_time": 69.634427, "heuristic": true, "cut_time": 42276, "nodes_num": 4973998}
+2019-01-05 12:33:05,850 : 127.0.0.1 - - [05/Jan/2019 12:33:05] "POST /react HTTP/1.1" 200 -
+2019-01-05 12:33:44,263 : {"pos": [7, 2], "depth": 4, "searched_nodes": 80715, "computing_time": 35.255972, "heuristic": true, "cut_time": 20362, "nodes_num": 2484076}
+2019-01-05 12:33:44,263 : 127.0.0.1 - - [05/Jan/2019 12:33:44] "POST /react HTTP/1.1" 200 -
+2019-01-05 12:34:31,646 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/main.py', reloading
+2019-01-05 12:34:37,540 : {"cut_time": 111, "nodes_num": 13196, "computing_time": 0.194509, "pos": [7, 2], "depth": 2, "searched_nodes": 466, "heuristic": true}
+2019-01-05 12:34:37,541 : 127.0.0.1 - - [05/Jan/2019 12:34:37] "POST /react HTTP/1.1" 200 -
+2019-01-05 12:35:58,816 : {"cut_time": 111, "nodes_num": 13196, "computing_time": 34.228525, "pos": [7, 2], "depth": 2, "searched_nodes": 466, "heuristic": true}
+2019-01-05 12:35:58,818 : 127.0.0.1 - - [05/Jan/2019 12:35:58] "POST /react HTTP/1.1" 200 -
+2019-01-05 12:43:01,488 : {"cut_time": 111, "nodes_num": 13196, "computing_time": 368.876822, "pos": [7, 2], "depth": 2, "searched_nodes": 466, "heuristic": true}
+2019-01-05 12:43:01,489 : 127.0.0.1 - - [05/Jan/2019 12:43:01] "POST /react HTTP/1.1" 200 -
+2019-01-05 12:43:55,962 : {"cut_time": 111, "nodes_num": 13196, "computing_time": 31.717548, "pos": [7, 2], "depth": 2, "searched_nodes": 466, "heuristic": true}
+2019-01-05 12:43:55,963 : 127.0.0.1 - - [05/Jan/2019 12:43:55] "POST /react HTTP/1.1" 200 -
+2019-01-05 12:44:06,433 : {"cut_time": 111, "nodes_num": 13196, "computing_time": 0.193666, "pos": [7, 2], "depth": 2, "searched_nodes": 466, "heuristic": true}
+2019-01-05 12:44:06,433 : 127.0.0.1 - - [05/Jan/2019 12:44:06] "POST /react HTTP/1.1" 200 -
+2019-01-05 12:54:41,168 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/main.py', reloading
+2019-01-05 12:56:30,065 : {"cut_time": 503, "computing_time": 60.472261, "pos": [5, 12], "depth": 3, "heuristic": true, "nodes_num": 65811, "searched_nodes": 14893}
+2019-01-05 12:56:30,066 : 127.0.0.1 - - [05/Jan/2019 12:56:30] "POST /react HTTP/1.1" 200 -
+2019-01-05 12:56:52,783 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/main.py', reloading
+2019-01-05 13:15:49,718 : {"heuristic": true, "nodes_num": 13196, "computing_time": 3.774229, "pos": [4, 12], "depth": 2, "searched_nodes": 1185, "cut_time": 108}
+2019-01-05 13:15:49,720 : 127.0.0.1 - - [05/Jan/2019 13:15:49] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:21:37,372 : {"heuristic": true, "nodes_num": 14796, "computing_time": 0.219746, "pos": [10, 11], "depth": 2, "searched_nodes": 840, "cut_time": 115}
+2019-01-05 13:21:37,374 : 127.0.0.1 - - [05/Jan/2019 13:21:37] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:21:39,066 : {"heuristic": true, "nodes_num": 15980, "computing_time": 0.238477, "pos": [11, 10], "depth": 2, "searched_nodes": 984, "cut_time": 120}
+2019-01-05 13:21:39,067 : 127.0.0.1 - - [05/Jan/2019 13:21:39] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:21:41,242 : {"heuristic": true, "nodes_num": 15716, "computing_time": 0.253308, "pos": [7, 11], "depth": 2, "searched_nodes": 1534, "cut_time": 119}
+2019-01-05 13:21:41,245 : 127.0.0.1 - - [05/Jan/2019 13:21:41] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:21:42,687 : {"heuristic": true, "nodes_num": 15690, "computing_time": 0.244297, "pos": [8, 11], "depth": 2, "searched_nodes": 880, "cut_time": 119}
+2019-01-05 13:21:42,687 : 127.0.0.1 - - [05/Jan/2019 13:21:42] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:21:44,909 : {"heuristic": true, "nodes_num": 15198, "computing_time": 0.243059, "pos": [6, 8], "depth": 2, "searched_nodes": 852, "cut_time": 117}
+2019-01-05 13:21:44,910 : 127.0.0.1 - - [05/Jan/2019 13:21:44] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:21:48,083 : {"heuristic": true, "nodes_num": 15433, "computing_time": 0.254694, "pos": [13, 8], "depth": 2, "searched_nodes": 958, "cut_time": 118}
+2019-01-05 13:21:48,085 : 127.0.0.1 - - [05/Jan/2019 13:21:48] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:22:21,096 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/main.py', reloading
+2019-01-05 13:22:27,281 : {"pos": [7, 7], "cut_time": 2040, "heuristic": true, "computing_time": 1.071655, "depth": 4, "searched_nodes": 11292, "nodes_num": 102899}
+2019-01-05 13:22:27,282 : 127.0.0.1 - - [05/Jan/2019 13:22:27] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:22:36,251 : {"pos": [8, 8], "cut_time": 4173, "heuristic": true, "computing_time": 2.566259, "depth": 4, "searched_nodes": 21350, "nodes_num": 246282}
+2019-01-05 13:22:36,252 : 127.0.0.1 - - [05/Jan/2019 13:22:36] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:22:47,151 : {"pos": [9, 7], "cut_time": 7594, "heuristic": true, "computing_time": 5.543889, "depth": 4, "searched_nodes": 40802, "nodes_num": 539709}
+2019-01-05 13:22:47,151 : 127.0.0.1 - - [05/Jan/2019 13:22:47] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:23:00,680 : {"pos": [10, 6], "cut_time": 9781, "heuristic": true, "computing_time": 8.542516, "depth": 4, "searched_nodes": 59598, "nodes_num": 791030}
+2019-01-05 13:23:00,681 : 127.0.0.1 - - [05/Jan/2019 13:23:00] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:23:42,487 : {"pos": [8, 6], "cut_time": 14480, "heuristic": true, "computing_time": 13.338753, "depth": 4, "searched_nodes": 78602, "nodes_num": 1153889}
+2019-01-05 13:23:42,488 : 127.0.0.1 - - [05/Jan/2019 13:23:42] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:24:57,435 : {"pos": [10, 5], "cut_time": 17037, "heuristic": true, "computing_time": 17.292715, "depth": 4, "searched_nodes": 123184, "nodes_num": 1451092}
+2019-01-05 13:24:57,436 : 127.0.0.1 - - [05/Jan/2019 13:24:57] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:26:03,093 : {"pos": [7, 5], "cut_time": 15312, "heuristic": true, "computing_time": 17.411326, "depth": 4, "searched_nodes": 124462, "nodes_num": 1458155}
+2019-01-05 13:26:03,094 : 127.0.0.1 - - [05/Jan/2019 13:26:03] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:26:54,382 : {"pos": [9, 5], "cut_time": 22958, "heuristic": true, "computing_time": 26.578081, "depth": 4, "searched_nodes": 158001, "nodes_num": 2142859}
+2019-01-05 13:26:54,383 : 127.0.0.1 - - [05/Jan/2019 13:26:54] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:27:00,558 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/main.py', reloading
+2019-01-05 13:39:09,860 : {"heuristic": true, "depth": 2, "cut_time": 22, "pos": [7, 7], "nodes_num": 840, "searched_nodes": 299, "computing_time": 0.011878}
+2019-01-05 13:39:09,861 : 127.0.0.1 - - [05/Jan/2019 13:39:09] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:39:11,006 : {"heuristic": true, "depth": 2, "cut_time": 29, "pos": [6, 8], "nodes_num": 1340, "searched_nodes": 285, "computing_time": 0.017954}
+2019-01-05 13:39:11,011 : 127.0.0.1 - - [05/Jan/2019 13:39:11] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:39:12,770 : {"heuristic": true, "depth": 2, "cut_time": 37, "pos": [8, 8], "nodes_num": 2047, "searched_nodes": 328, "computing_time": 0.02589}
+2019-01-05 13:39:12,770 : 127.0.0.1 - - [05/Jan/2019 13:39:12] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:39:14,382 : {"heuristic": true, "depth": 2, "cut_time": 46, "pos": [9, 9], "nodes_num": 3021, "searched_nodes": 388, "computing_time": 0.036877}
+2019-01-05 13:39:14,383 : 127.0.0.1 - - [05/Jan/2019 13:39:14] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:39:15,488 : {"heuristic": true, "depth": 2, "cut_time": 46, "pos": [7, 6], "nodes_num": 3136, "searched_nodes": 811, "computing_time": 0.045874}
+2019-01-05 13:39:15,489 : 127.0.0.1 - - [05/Jan/2019 13:39:15] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:39:18,455 : {"heuristic": true, "depth": 2, "cut_time": 49, "pos": [6, 9], "nodes_num": 3253, "searched_nodes": 459, "computing_time": 0.044765}
+2019-01-05 13:39:18,456 : 127.0.0.1 - - [05/Jan/2019 13:39:18] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:39:20,591 : {"heuristic": true, "depth": 2, "cut_time": 54, "pos": [8, 5], "nodes_num": 4195, "searched_nodes": 666, "computing_time": 0.059469}
+2019-01-05 13:39:20,592 : 127.0.0.1 - - [05/Jan/2019 13:39:20] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:39:22,134 : {"heuristic": true, "depth": 2, "cut_time": 67, "pos": [10, 5], "nodes_num": 5683, "searched_nodes": 789, "computing_time": 0.078218}
+2019-01-05 13:39:22,135 : 127.0.0.1 - - [05/Jan/2019 13:39:22] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:39:23,632 : {"heuristic": true, "depth": 2, "cut_time": 71, "pos": [5, 7], "nodes_num": 6283, "searched_nodes": 665, "computing_time": 0.085088}
+2019-01-05 13:39:23,633 : 127.0.0.1 - - [05/Jan/2019 13:39:23] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:39:24,796 : {"heuristic": true, "depth": 2, "cut_time": 81, "pos": [9, 3], "nodes_num": 7680, "searched_nodes": 824, "computing_time": 0.107586}
+2019-01-05 13:39:24,797 : 127.0.0.1 - - [05/Jan/2019 13:39:24] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:39:28,158 : {"heuristic": true, "depth": 2, "cut_time": 80, "pos": [9, 7], "nodes_num": 7865, "searched_nodes": 916, "computing_time": 0.11313}
+2019-01-05 13:39:28,159 : 127.0.0.1 - - [05/Jan/2019 13:39:28] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:39:39,339 : {"heuristic": true, "depth": 2, "cut_time": 78, "pos": [10, 6], "nodes_num": 7692, "searched_nodes": 792, "computing_time": 0.112841}
+2019-01-05 13:39:39,339 : 127.0.0.1 - - [05/Jan/2019 13:39:39] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:39:47,148 : {"heuristic": true, "depth": 2, "cut_time": 78, "pos": [11, 5], "nodes_num": 7520, "searched_nodes": 675, "computing_time": 0.112384}
+2019-01-05 13:39:47,148 : 127.0.0.1 - - [05/Jan/2019 13:39:47] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:39:49,313 : {"heuristic": true, "depth": 2, "cut_time": 81, "pos": [10, 4], "nodes_num": 7997, "searched_nodes": 1032, "computing_time": 0.131549}
+2019-01-05 13:39:49,314 : 127.0.0.1 - - [05/Jan/2019 13:39:49] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:39:50,692 : {"heuristic": true, "depth": 2, "cut_time": 85, "pos": [12, 6], "nodes_num": 8677, "searched_nodes": 732, "computing_time": 0.134516}
+2019-01-05 13:39:50,692 : 127.0.0.1 - - [05/Jan/2019 13:39:50] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:39:58,109 : {"heuristic": true, "depth": 2, "cut_time": 88, "pos": [10, 7], "nodes_num": 8845, "searched_nodes": 592, "computing_time": 0.144564}
+2019-01-05 13:39:58,109 : 127.0.0.1 - - [05/Jan/2019 13:39:58] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:40:07,346 : {"heuristic": true, "depth": 2, "cut_time": 81, "pos": [10, 4], "nodes_num": 7997, "searched_nodes": 1032, "computing_time": 0.126876}
+2019-01-05 13:40:07,347 : 127.0.0.1 - - [05/Jan/2019 13:40:07] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:40:14,640 : {"heuristic": true, "depth": 2, "cut_time": 80, "pos": [8, 2], "nodes_num": 7842, "searched_nodes": 929, "computing_time": 0.121178}
+2019-01-05 13:40:14,641 : 127.0.0.1 - - [05/Jan/2019 13:40:14] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:40:20,406 : {"heuristic": true, "depth": 2, "cut_time": 77, "pos": [9, 4], "nodes_num": 7502, "searched_nodes": 1110, "computing_time": 0.123774}
+2019-01-05 13:40:20,407 : 127.0.0.1 - - [05/Jan/2019 13:40:20] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:40:22,341 : {"heuristic": true, "depth": 2, "cut_time": 88, "pos": [5, 3], "nodes_num": 9650, "searched_nodes": 1013, "computing_time": 0.147564}
+2019-01-05 13:40:22,342 : 127.0.0.1 - - [05/Jan/2019 13:40:22] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:40:24,552 : {"heuristic": true, "depth": 2, "cut_time": 96, "pos": [8, 9], "nodes_num": 10253, "searched_nodes": 514, "computing_time": 0.151197}
+2019-01-05 13:40:24,553 : 127.0.0.1 - - [05/Jan/2019 13:40:24] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:40:33,787 : {"heuristic": true, "depth": 2, "cut_time": 99, "pos": [7, 10], "nodes_num": 11679, "searched_nodes": 1110, "computing_time": 0.178457}
+2019-01-05 13:40:33,791 : 127.0.0.1 - - [05/Jan/2019 13:40:33] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:40:36,855 : {"heuristic": true, "depth": 2, "cut_time": 100, "pos": [4, 5], "nodes_num": 11464, "searched_nodes": 1108, "computing_time": 0.184577}
+2019-01-05 13:40:36,855 : 127.0.0.1 - - [05/Jan/2019 13:40:36] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:40:40,025 : {"heuristic": true, "depth": 2, "cut_time": 98, "pos": [5, 4], "nodes_num": 11048, "searched_nodes": 1004, "computing_time": 0.183838}
+2019-01-05 13:40:40,026 : 127.0.0.1 - - [05/Jan/2019 13:40:40] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:40:42,027 : {"heuristic": true, "depth": 2, "cut_time": 99, "pos": [4, 6], "nodes_num": 11253, "searched_nodes": 1281, "computing_time": 0.19408}
+2019-01-05 13:40:42,028 : 127.0.0.1 - - [05/Jan/2019 13:40:42] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:40:44,265 : {"heuristic": true, "depth": 2, "cut_time": 99, "pos": [3, 3], "nodes_num": 11041, "searched_nodes": 1197, "computing_time": 0.198342}
+2019-01-05 13:40:44,266 : 127.0.0.1 - - [05/Jan/2019 13:40:44] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:40:46,355 : {"heuristic": true, "depth": 2, "cut_time": 95, "pos": [6, 5], "nodes_num": 10633, "searched_nodes": 840, "computing_time": 0.188887}
+2019-01-05 13:40:46,355 : 127.0.0.1 - - [05/Jan/2019 13:40:46] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:40:51,546 : {"heuristic": true, "depth": 2, "cut_time": 101, "pos": [6, 11], "nodes_num": 11885, "searched_nodes": 1544, "computing_time": 0.218865}
+2019-01-05 13:40:51,547 : 127.0.0.1 - - [05/Jan/2019 13:40:51] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:40:57,216 : {"heuristic": true, "depth": 2, "cut_time": 110, "pos": [8, 11], "nodes_num": 13849, "searched_nodes": 1565, "computing_time": 0.246926}
+2019-01-05 13:40:57,217 : 127.0.0.1 - - [05/Jan/2019 13:40:57] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:41:00,336 : {"heuristic": true, "depth": 2, "cut_time": 113, "pos": [5, 8], "nodes_num": 14529, "searched_nodes": 965, "computing_time": 0.252744}
+2019-01-05 13:41:00,337 : 127.0.0.1 - - [05/Jan/2019 13:41:00] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:41:03,522 : {"heuristic": true, "depth": 2, "cut_time": 112, "pos": [6, 10], "nodes_num": 14057, "searched_nodes": 834, "computing_time": 0.249699}
+2019-01-05 13:41:03,522 : 127.0.0.1 - - [05/Jan/2019 13:41:03] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:41:14,800 : {"heuristic": true, "depth": 2, "cut_time": 109, "pos": [7, 11], "nodes_num": 13593, "searched_nodes": 1259, "computing_time": 0.267413}
+2019-01-05 13:41:14,804 : 127.0.0.1 - - [05/Jan/2019 13:41:14] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:41:16,999 : {"heuristic": true, "depth": 2, "cut_time": 108, "pos": [9, 11], "nodes_num": 13137, "searched_nodes": 813, "computing_time": 0.247614}
+2019-01-05 13:41:17,000 : 127.0.0.1 - - [05/Jan/2019 13:41:17] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:41:19,686 : {"heuristic": true, "depth": 2, "cut_time": 111, "pos": [8, 12], "nodes_num": 13823, "searched_nodes": 827, "computing_time": 0.263613}
+2019-01-05 13:41:19,686 : 127.0.0.1 - - [05/Jan/2019 13:41:19] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:41:22,920 : {"heuristic": true, "depth": 2, "cut_time": 110, "pos": [5, 9], "nodes_num": 13363, "searched_nodes": 709, "computing_time": 0.262822}
+2019-01-05 13:41:22,921 : 127.0.0.1 - - [05/Jan/2019 13:41:22] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:41:33,821 : {"heuristic": true, "depth": 2, "cut_time": 111, "pos": [8, 12], "nodes_num": 13823, "searched_nodes": 827, "computing_time": 0.261335}
+2019-01-05 13:41:33,821 : 127.0.0.1 - - [05/Jan/2019 13:41:33] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:41:36,520 : {"heuristic": true, "depth": 2, "cut_time": 110, "pos": [5, 9], "nodes_num": 13363, "searched_nodes": 709, "computing_time": 0.263913}
+2019-01-05 13:41:36,521 : 127.0.0.1 - - [05/Jan/2019 13:41:36] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:41:56,108 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/main.py', reloading
+2019-01-05 13:42:00,669 : {"searched_nodes": 18409, "depth": 4, "pos": [7, 7], "nodes_num": 145925, "cut_time": 2899, "heuristic": true, "computing_time": 1.591699}
+2019-01-05 13:42:00,671 : 127.0.0.1 - - [05/Jan/2019 13:42:00] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:42:05,792 : {"searched_nodes": 33580, "depth": 4, "pos": [6, 8], "nodes_num": 342990, "cut_time": 5772, "heuristic": true, "computing_time": 3.669335}
+2019-01-05 13:42:05,793 : 127.0.0.1 - - [05/Jan/2019 13:42:05] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:42:13,306 : {"searched_nodes": 62163, "depth": 4, "pos": [8, 8], "nodes_num": 559827, "cut_time": 8502, "heuristic": true, "computing_time": 6.309946}
+2019-01-05 13:42:13,307 : 127.0.0.1 - - [05/Jan/2019 13:42:13] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:42:24,278 : {"searched_nodes": 60408, "depth": 4, "pos": [9, 9], "nodes_num": 898186, "cut_time": 10412, "heuristic": true, "computing_time": 9.212308}
+2019-01-05 13:42:24,279 : 127.0.0.1 - - [05/Jan/2019 13:42:24] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:42:28,565 : {"searched_nodes": 41094, "depth": 4, "pos": [10, 10], "nodes_num": 217650, "cut_time": 2086, "heuristic": true, "computing_time": 2.657178}
+2019-01-05 13:42:28,566 : 127.0.0.1 - - [05/Jan/2019 13:42:28] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:42:50,398 : {"searched_nodes": 92477, "depth": 4, "pos": [7, 9], "nodes_num": 1282484, "cut_time": 13957, "heuristic": true, "computing_time": 14.729888}
+2019-01-05 13:42:50,399 : 127.0.0.1 - - [05/Jan/2019 13:42:50] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:43:08,333 : {"searched_nodes": 72593, "depth": 4, "pos": [7, 6], "nodes_num": 1062897, "cut_time": 11229, "heuristic": true, "computing_time": 13.00134}
+2019-01-05 13:43:08,334 : 127.0.0.1 - - [05/Jan/2019 13:43:08] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:44:08,204 : {"searched_nodes": 121627, "depth": 4, "pos": [6, 9], "nodes_num": 1742870, "cut_time": 18369, "heuristic": true, "computing_time": 21.792174}
+2019-01-05 13:44:08,205 : 127.0.0.1 - - [05/Jan/2019 13:44:08] "POST /react HTTP/1.1" 200 -
+2019-01-05 13:56:49,292 : {"searched_nodes": 93046, "depth": 4, "pos": [10, 5], "nodes_num": 1996346, "cut_time": 18814, "heuristic": true, "computing_time": 23.879775}
+2019-01-05 13:56:49,293 : 127.0.0.1 - - [05/Jan/2019 13:56:49] "POST /react HTTP/1.1" 200 -
+2019-01-05 14:02:34,223 : {"searched_nodes": 165561, "depth": 4, "pos": [8, 10], "nodes_num": 3194392, "cut_time": 29542, "heuristic": true, "computing_time": 39.620197}
+2019-01-05 14:02:34,224 : 127.0.0.1 - - [05/Jan/2019 14:02:34] "POST /react HTTP/1.1" 200 -
+2019-01-05 14:18:15,836 : 127.0.0.1 - - [05/Jan/2019 14:18:15] "GET / HTTP/1.1" 302 -
+2019-01-05 14:18:43,759 : {"searched_nodes": 104032, "depth": 4, "pos": [9, 11], "nodes_num": 800048, "cut_time": 6543, "heuristic": true, "computing_time": 10.601883}
+2019-01-05 14:18:43,760 : 127.0.0.1 - - [05/Jan/2019 14:18:43] "POST /react HTTP/1.1" 200 -
+2019-01-05 14:19:59,291 : {"searched_nodes": 287727, "depth": 4, "pos": [9, 10], "nodes_num": 5747955, "cut_time": 52317, "heuristic": true, "computing_time": 74.406847}
+2019-01-05 14:19:59,291 : 127.0.0.1 - - [05/Jan/2019 14:19:59] "POST /react HTTP/1.1" 200 -
+2019-01-05 14:28:17,860 : {"searched_nodes": 357918, "depth": 4, "pos": [8, 4], "nodes_num": 6223457, "cut_time": 55390, "heuristic": true, "computing_time": 83.044359}
+2019-01-05 14:28:17,861 : 127.0.0.1 - - [05/Jan/2019 14:28:17] "POST /react HTTP/1.1" 200 -
+2019-01-05 14:34:36,721 : {"searched_nodes": 319506, "depth": 4, "pos": [4, 8], "nodes_num": 7809615, "cut_time": 64908, "heuristic": true, "computing_time": 100.548092}
+2019-01-05 14:34:36,722 : 127.0.0.1 - - [05/Jan/2019 14:34:36] "POST /react HTTP/1.1" 200 -
+2019-01-05 14:35:07,154 : {"searched_nodes": 124667, "depth": 4, "pos": [7, 10], "nodes_num": 1491259, "cut_time": 11839, "heuristic": true, "computing_time": 20.552958}
+2019-01-05 14:35:07,154 : 127.0.0.1 - - [05/Jan/2019 14:35:07] "POST /react HTTP/1.1" 200 -
+2019-01-05 14:35:10,351 : 127.0.0.1 - - [05/Jan/2019 14:35:10] "POST /react HTTP/1.1" 200 -
+2019-01-05 14:35:10,363 : 127.0.0.1 - - [05/Jan/2019 14:35:10] "POST /logging HTTP/1.1" 200 -
+2019-01-05 14:35:16,575 : {"searched_nodes": 18409, "depth": 4, "pos": [7, 7], "nodes_num": 145925, "cut_time": 2899, "heuristic": true, "computing_time": 1.566775}
+2019-01-05 14:35:16,576 : 127.0.0.1 - - [05/Jan/2019 14:35:16] "POST /react HTTP/1.1" 200 -
+2019-01-05 14:35:22,789 : {"searched_nodes": 33580, "depth": 4, "pos": [6, 8], "nodes_num": 342990, "cut_time": 5772, "heuristic": true, "computing_time": 3.631087}
+2019-01-05 14:35:22,790 : 127.0.0.1 - - [05/Jan/2019 14:35:22] "POST /react HTTP/1.1" 200 -
+2019-01-05 14:35:32,148 : {"searched_nodes": 62163, "depth": 4, "pos": [8, 8], "nodes_num": 559827, "cut_time": 8502, "heuristic": true, "computing_time": 6.409382}
+2019-01-05 14:35:32,149 : 127.0.0.1 - - [05/Jan/2019 14:35:32] "POST /react HTTP/1.1" 200 -
+2019-01-05 14:40:55,542 : 127.0.0.1 - - [05/Jan/2019 14:40:55] "GET /front_end/game.html HTTP/1.1" 200 -
+2019-01-05 14:40:55,561 : 127.0.0.1 - - [05/Jan/2019 14:40:55] "GET /front_end/css/layui.css HTTP/1.1" 200 -
+2019-01-05 14:40:55,561 : 127.0.0.1 - - [05/Jan/2019 14:40:55] "GET /front_end/css/style.css HTTP/1.1" 200 -
+2019-01-05 14:40:55,568 : 127.0.0.1 - - [05/Jan/2019 14:40:55] "GET /front_end/assets/image/gomoku.png HTTP/1.1" 200 -
+2019-01-05 14:40:55,570 : 127.0.0.1 - - [05/Jan/2019 14:40:55] "GET /front_end/assets/image/stone_white.png HTTP/1.1" 200 -
+2019-01-05 14:40:55,724 : 127.0.0.1 - - [05/Jan/2019 14:40:55] "GET /front_end/script/library/jquery-3.3.1.min.js HTTP/1.1" 200 -
+2019-01-05 14:40:55,727 : 127.0.0.1 - - [05/Jan/2019 14:40:55] "GET /front_end/script/util.js HTTP/1.1" 200 -
+2019-01-05 14:40:55,734 : 127.0.0.1 - - [05/Jan/2019 14:40:55] "GET /front_end/script/action.js HTTP/1.1" 200 -
+2019-01-05 14:40:55,735 : 127.0.0.1 - - [05/Jan/2019 14:40:55] "GET /front_end/assets/image/stone_black.png HTTP/1.1" 200 -
+2019-01-05 14:40:55,740 : 127.0.0.1 - - [05/Jan/2019 14:40:55] "GET /front_end/script/library/layui/layui.js HTTP/1.1" 200 -
+2019-01-05 14:40:55,743 : 127.0.0.1 - - [05/Jan/2019 14:40:55] "GET /front_end/assets/image/topboard.png HTTP/1.1" 200 -
+2019-01-05 14:40:55,751 : 127.0.0.1 - - [05/Jan/2019 14:40:55] "GET /front_end/assets/image/restart.png HTTP/1.1" 200 -
+2019-01-05 14:40:55,751 : 127.0.0.1 - - [05/Jan/2019 14:40:55] "GET /front_end/assets/image/back.png HTTP/1.1" 200 -
+2019-01-05 14:40:55,964 : 127.0.0.1 - - [05/Jan/2019 14:40:55] "GET /front_end/assets/image/robot.png HTTP/1.1" 200 -
+2019-01-05 14:40:55,965 : 127.0.0.1 - - [05/Jan/2019 14:40:55] "GET /front_end/script/library/layui/lay/modules/layer.js HTTP/1.1" 200 -
+2019-01-05 14:40:56,071 : 127.0.0.1 - - [05/Jan/2019 14:40:56] "GET /front_end/script/library/layui/css/modules/layer/default/layer.css?v=3.1.0 HTTP/1.1" 200 -
+2019-01-05 14:40:56,100 : 127.0.0.1 - - [05/Jan/2019 14:40:56] "GET /favicon.ico HTTP/1.1" 404 -
+2019-01-05 14:43:31,030 : 127.0.0.1 - - [05/Jan/2019 14:43:31] "GET /front_end/game.html HTTP/1.1" 200 -
+2019-01-05 14:43:31,050 : 127.0.0.1 - - [05/Jan/2019 14:43:31] "GET /front_end/css/layui.css HTTP/1.1" 200 -
+2019-01-05 14:43:31,052 : 127.0.0.1 - - [05/Jan/2019 14:43:31] "GET /front_end/css/style.css HTTP/1.1" 200 -
+2019-01-05 14:43:31,052 : 127.0.0.1 - - [05/Jan/2019 14:43:31] "GET /front_end/assets/image/gomoku.png HTTP/1.1" 200 -
+2019-01-05 14:43:31,054 : 127.0.0.1 - - [05/Jan/2019 14:43:31] "GET /front_end/assets/image/stone_white.png HTTP/1.1" 200 -
+2019-01-05 14:43:31,209 : 127.0.0.1 - - [05/Jan/2019 14:43:31] "GET /front_end/script/library/jquery-3.3.1.min.js HTTP/1.1" 200 -
+2019-01-05 14:43:31,212 : 127.0.0.1 - - [05/Jan/2019 14:43:31] "GET /front_end/script/library/layui/layui.js HTTP/1.1" 200 -
+2019-01-05 14:43:31,217 : 127.0.0.1 - - [05/Jan/2019 14:43:31] "GET /front_end/script/action.js HTTP/1.1" 200 -
+2019-01-05 14:43:31,217 : 127.0.0.1 - - [05/Jan/2019 14:43:31] "GET /front_end/script/util.js HTTP/1.1" 200 -
+2019-01-05 14:43:31,220 : 127.0.0.1 - - [05/Jan/2019 14:43:31] "GET /front_end/assets/image/stone_black.png HTTP/1.1" 200 -
+2019-01-05 14:43:31,229 : 127.0.0.1 - - [05/Jan/2019 14:43:31] "GET /front_end/assets/image/topboard.png HTTP/1.1" 200 -
+2019-01-05 14:43:31,232 : 127.0.0.1 - - [05/Jan/2019 14:43:31] "GET /front_end/assets/image/back.png HTTP/1.1" 200 -
+2019-01-05 14:43:31,234 : 127.0.0.1 - - [05/Jan/2019 14:43:31] "GET /front_end/assets/image/restart.png HTTP/1.1" 200 -
+2019-01-05 14:43:31,420 : 127.0.0.1 - - [05/Jan/2019 14:43:31] "GET /front_end/assets/image/robot.png HTTP/1.1" 200 -
+2019-01-05 14:43:31,422 : 127.0.0.1 - - [05/Jan/2019 14:43:31] "GET /front_end/script/library/layui/lay/modules/layer.js HTTP/1.1" 200 -
+2019-01-05 14:43:31,520 : 127.0.0.1 - - [05/Jan/2019 14:43:31] "GET /front_end/script/library/layui/css/modules/layer/default/layer.css?v=3.1.0 HTTP/1.1" 200 -
+2019-01-05 14:43:31,531 : 127.0.0.1 - - [05/Jan/2019 14:43:31] "GET /favicon.ico HTTP/1.1" 404 -
+2019-01-05 14:43:48,724 : 127.0.0.1 - - [05/Jan/2019 14:43:48] "GET /front_end/game.html HTTP/1.1" 200 -
+2019-01-05 14:43:48,743 : 127.0.0.1 - - [05/Jan/2019 14:43:48] "GET /front_end/css/style.css HTTP/1.1" 200 -
+2019-01-05 14:43:48,745 : 127.0.0.1 - - [05/Jan/2019 14:43:48] "GET /front_end/assets/image/gomoku.png HTTP/1.1" 200 -
+2019-01-05 14:43:48,749 : 127.0.0.1 - - [05/Jan/2019 14:43:48] "GET /front_end/assets/image/stone_white.png HTTP/1.1" 200 -
+2019-01-05 14:43:48,750 : 127.0.0.1 - - [05/Jan/2019 14:43:48] "GET /front_end/css/layui.css HTTP/1.1" 200 -
+2019-01-05 14:43:48,908 : 127.0.0.1 - - [05/Jan/2019 14:43:48] "GET /front_end/script/util.js HTTP/1.1" 200 -
+2019-01-05 14:43:48,911 : 127.0.0.1 - - [05/Jan/2019 14:43:48] "GET /front_end/script/library/layui/layui.js HTTP/1.1" 200 -
+2019-01-05 14:43:48,915 : 127.0.0.1 - - [05/Jan/2019 14:43:48] "GET /front_end/script/library/jquery-3.3.1.min.js HTTP/1.1" 200 -
+2019-01-05 14:43:48,916 : 127.0.0.1 - - [05/Jan/2019 14:43:48] "GET /front_end/script/action.js HTTP/1.1" 200 -
+2019-01-05 14:43:48,922 : 127.0.0.1 - - [05/Jan/2019 14:43:48] "GET /front_end/assets/image/stone_black.png HTTP/1.1" 200 -
+2019-01-05 14:43:48,926 : 127.0.0.1 - - [05/Jan/2019 14:43:48] "GET /front_end/assets/image/back.png HTTP/1.1" 200 -
+2019-01-05 14:43:48,927 : 127.0.0.1 - - [05/Jan/2019 14:43:48] "GET /front_end/assets/image/topboard.png HTTP/1.1" 200 -
+2019-01-05 14:43:48,931 : 127.0.0.1 - - [05/Jan/2019 14:43:48] "GET /front_end/assets/image/restart.png HTTP/1.1" 200 -
+2019-01-05 14:43:49,099 : 127.0.0.1 - - [05/Jan/2019 14:43:49] "GET /front_end/assets/image/robot.png HTTP/1.1" 200 -
+2019-01-05 14:43:49,100 : 127.0.0.1 - - [05/Jan/2019 14:43:49] "GET /front_end/script/library/layui/lay/modules/layer.js HTTP/1.1" 200 -
+2019-01-05 14:43:49,207 : 127.0.0.1 - - [05/Jan/2019 14:43:49] "GET /front_end/script/library/layui/css/modules/layer/default/layer.css?v=3.1.0 HTTP/1.1" 200 -
+2019-01-05 14:43:49,214 : 127.0.0.1 - - [05/Jan/2019 14:43:49] "GET /favicon.ico HTTP/1.1" 404 -
+2019-01-05 14:44:33,867 : 127.0.0.1 - - [05/Jan/2019 14:44:33] "GET /front_end/game.html HTTP/1.1" 304 -
+2019-01-05 14:44:35,050 : 127.0.0.1 - - [05/Jan/2019 14:44:35] "GET /front_end/game.html HTTP/1.1" 200 -
+2019-01-05 14:44:35,066 : 127.0.0.1 - - [05/Jan/2019 14:44:35] "GET /front_end/css/style.css HTTP/1.1" 200 -
+2019-01-05 14:44:35,067 : 127.0.0.1 - - [05/Jan/2019 14:44:35] "GET /front_end/css/layui.css HTTP/1.1" 200 -
+2019-01-05 14:44:35,070 : 127.0.0.1 - - [05/Jan/2019 14:44:35] "GET /front_end/assets/image/gomoku.png HTTP/1.1" 200 -
+2019-01-05 14:44:35,072 : 127.0.0.1 - - [05/Jan/2019 14:44:35] "GET /front_end/assets/image/stone_white.png HTTP/1.1" 200 -
+2019-01-05 14:44:35,115 : 127.0.0.1 - - [05/Jan/2019 14:44:35] "GET /front_end/script/library/layui/layui.js HTTP/1.1" 200 -
+2019-01-05 14:44:35,120 : 127.0.0.1 - - [05/Jan/2019 14:44:35] "GET /front_end/script/action.js HTTP/1.1" 200 -
+2019-01-05 14:44:35,121 : 127.0.0.1 - - [05/Jan/2019 14:44:35] "GET /front_end/script/util.js HTTP/1.1" 200 -
+2019-01-05 14:44:35,125 : 127.0.0.1 - - [05/Jan/2019 14:44:35] "GET /front_end/script/library/jquery-3.3.1.min.js HTTP/1.1" 200 -
+2019-01-05 14:44:35,128 : 127.0.0.1 - - [05/Jan/2019 14:44:35] "GET /front_end/assets/image/stone_black.png HTTP/1.1" 200 -
+2019-01-05 14:44:35,129 : 127.0.0.1 - - [05/Jan/2019 14:44:35] "GET /front_end/assets/image/topboard.png HTTP/1.1" 200 -
+2019-01-05 14:44:35,131 : 127.0.0.1 - - [05/Jan/2019 14:44:35] "GET /front_end/assets/image/back.png HTTP/1.1" 200 -
+2019-01-05 14:44:35,136 : 127.0.0.1 - - [05/Jan/2019 14:44:35] "GET /front_end/assets/image/restart.png HTTP/1.1" 200 -
+2019-01-05 14:44:35,319 : 127.0.0.1 - - [05/Jan/2019 14:44:35] "GET /front_end/assets/image/robot.png HTTP/1.1" 200 -
+2019-01-05 14:44:35,320 : 127.0.0.1 - - [05/Jan/2019 14:44:35] "GET /front_end/script/library/layui/lay/modules/layer.js HTTP/1.1" 200 -
+2019-01-05 14:44:35,368 : 127.0.0.1 - - [05/Jan/2019 14:44:35] "GET /front_end/script/library/layui/css/modules/layer/default/layer.css?v=3.1.0 HTTP/1.1" 200 -
+2019-01-05 14:44:35,382 : 127.0.0.1 - - [05/Jan/2019 14:44:35] "GET /favicon.ico HTTP/1.1" 404 -
+2019-01-05 14:45:30,367 : 127.0.0.1 - - [05/Jan/2019 14:45:30] "GET /front_end/game.html HTTP/1.1" 304 -
+2019-01-05 14:45:35,629 : {"searched_nodes": 18409, "depth": 4, "pos": [7, 7], "nodes_num": 145925, "cut_time": 2899, "heuristic": true, "computing_time": 1.594865}
+2019-01-05 14:45:35,630 : 127.0.0.1 - - [05/Jan/2019 14:45:35] "POST /react HTTP/1.1" 200 -
+2019-01-05 14:45:37,488 : 127.0.0.1 - - [05/Jan/2019 14:45:37] "GET /front_end/game.html HTTP/1.1" 200 -
+2019-01-05 14:45:37,508 : 127.0.0.1 - - [05/Jan/2019 14:45:37] "GET /front_end/css/layui.css HTTP/1.1" 200 -
+2019-01-05 14:45:37,509 : 127.0.0.1 - - [05/Jan/2019 14:45:37] "GET /front_end/css/style.css HTTP/1.1" 200 -
+2019-01-05 14:45:37,512 : 127.0.0.1 - - [05/Jan/2019 14:45:37] "GET /front_end/assets/image/gomoku.png HTTP/1.1" 200 -
+2019-01-05 14:45:37,513 : 127.0.0.1 - - [05/Jan/2019 14:45:37] "GET /front_end/assets/image/stone_white.png HTTP/1.1" 200 -
+2019-01-05 14:45:37,554 : 127.0.0.1 - - [05/Jan/2019 14:45:37] "GET /front_end/script/util.js HTTP/1.1" 200 -
+2019-01-05 14:45:37,558 : 127.0.0.1 - - [05/Jan/2019 14:45:37] "GET /front_end/script/library/jquery-3.3.1.min.js HTTP/1.1" 200 -
+2019-01-05 14:45:37,562 : 127.0.0.1 - - [05/Jan/2019 14:45:37] "GET /front_end/script/library/layui/layui.js HTTP/1.1" 200 -
+2019-01-05 14:45:37,563 : 127.0.0.1 - - [05/Jan/2019 14:45:37] "GET /front_end/assets/image/stone_black.png HTTP/1.1" 200 -
+2019-01-05 14:45:37,567 : 127.0.0.1 - - [05/Jan/2019 14:45:37] "GET /front_end/assets/image/topboard.png HTTP/1.1" 200 -
+2019-01-05 14:45:37,568 : 127.0.0.1 - - [05/Jan/2019 14:45:37] "GET /front_end/script/action.js HTTP/1.1" 200 -
+2019-01-05 14:45:37,573 : 127.0.0.1 - - [05/Jan/2019 14:45:37] "GET /front_end/assets/image/back.png HTTP/1.1" 200 -
+2019-01-05 14:45:37,574 : 127.0.0.1 - - [05/Jan/2019 14:45:37] "GET /front_end/assets/image/restart.png HTTP/1.1" 200 -
+2019-01-05 14:45:37,752 : 127.0.0.1 - - [05/Jan/2019 14:45:37] "GET /front_end/assets/image/robot.png HTTP/1.1" 200 -
+2019-01-05 14:45:37,754 : 127.0.0.1 - - [05/Jan/2019 14:45:37] "GET /front_end/script/library/layui/lay/modules/layer.js HTTP/1.1" 200 -
+2019-01-05 14:45:37,806 : 127.0.0.1 - - [05/Jan/2019 14:45:37] "GET /front_end/script/library/layui/css/modules/layer/default/layer.css?v=3.1.0 HTTP/1.1" 200 -
+2019-01-05 14:45:37,814 : 127.0.0.1 - - [05/Jan/2019 14:45:37] "GET /favicon.ico HTTP/1.1" 404 -
+2019-01-05 14:45:40,298 : {"searched_nodes": 18409, "depth": 4, "pos": [7, 7], "nodes_num": 145925, "cut_time": 2899, "heuristic": true, "computing_time": 1.616576}
+2019-01-05 14:45:40,300 : 127.0.0.1 - - [05/Jan/2019 14:45:40] "POST /react HTTP/1.1" 200 -
+2019-01-05 14:46:46,935 : 127.0.0.1 - - [05/Jan/2019 14:46:46] "GET /front_end/game.html HTTP/1.1" 200 -
+2019-01-05 14:46:46,953 : 127.0.0.1 - - [05/Jan/2019 14:46:46] "GET /front_end/css/style.css HTTP/1.1" 200 -
+2019-01-05 14:46:46,956 : 127.0.0.1 - - [05/Jan/2019 14:46:46] "GET /front_end/css/layui.css HTTP/1.1" 200 -
+2019-01-05 14:46:46,960 : 127.0.0.1 - - [05/Jan/2019 14:46:46] "GET /front_end/assets/image/stone_white.png HTTP/1.1" 200 -
+2019-01-05 14:46:46,962 : 127.0.0.1 - - [05/Jan/2019 14:46:46] "GET /front_end/assets/image/gomoku.png HTTP/1.1" 200 -
+2019-01-05 14:46:47,124 : 127.0.0.1 - - [05/Jan/2019 14:46:47] "GET /front_end/script/library/jquery-3.3.1.min.js HTTP/1.1" 200 -
+2019-01-05 14:46:47,127 : 127.0.0.1 - - [05/Jan/2019 14:46:47] "GET /front_end/script/library/layui/layui.js HTTP/1.1" 200 -
+2019-01-05 14:46:47,131 : 127.0.0.1 - - [05/Jan/2019 14:46:47] "GET /front_end/script/util.js HTTP/1.1" 200 -
+2019-01-05 14:46:47,134 : 127.0.0.1 - - [05/Jan/2019 14:46:47] "GET /front_end/script/action.js HTTP/1.1" 200 -
+2019-01-05 14:46:47,138 : 127.0.0.1 - - [05/Jan/2019 14:46:47] "GET /front_end/assets/image/stone_black.png HTTP/1.1" 200 -
+2019-01-05 14:46:47,144 : 127.0.0.1 - - [05/Jan/2019 14:46:47] "GET /front_end/assets/image/topboard.png HTTP/1.1" 200 -
+2019-01-05 14:46:47,147 : 127.0.0.1 - - [05/Jan/2019 14:46:47] "GET /front_end/assets/image/back.png HTTP/1.1" 200 -
+2019-01-05 14:46:47,149 : 127.0.0.1 - - [05/Jan/2019 14:46:47] "GET /front_end/assets/image/restart.png HTTP/1.1" 200 -
+2019-01-05 14:46:47,331 : 127.0.0.1 - - [05/Jan/2019 14:46:47] "GET /front_end/assets/image/robot.png HTTP/1.1" 200 -
+2019-01-05 14:46:47,332 : 127.0.0.1 - - [05/Jan/2019 14:46:47] "GET /front_end/script/library/layui/lay/modules/layer.js HTTP/1.1" 200 -
+2019-01-05 14:46:47,433 : 127.0.0.1 - - [05/Jan/2019 14:46:47] "GET /front_end/script/library/layui/css/modules/layer/default/layer.css?v=3.1.0 HTTP/1.1" 200 -
+2019-01-05 14:46:47,440 : 127.0.0.1 - - [05/Jan/2019 14:46:47] "GET /favicon.ico HTTP/1.1" 404 -
+2019-01-05 14:47:56,448 : 127.0.0.1 - - [05/Jan/2019 14:47:56] "GET /front_end/game.html HTTP/1.1" 304 -
+2019-01-05 14:52:24,997 : 127.0.0.1 - - [05/Jan/2019 14:52:24] "POST /react HTTP/1.1" 200 -
+2019-01-05 14:52:25,007 : 127.0.0.1 - - [05/Jan/2019 14:52:25] "POST /logging HTTP/1.1" 200 -
+2019-01-05 14:52:28,254 : 127.0.0.1 - - [05/Jan/2019 14:52:28] "POST /react HTTP/1.1" 200 -
+2019-01-05 14:52:28,262 : 127.0.0.1 - - [05/Jan/2019 14:52:28] "POST /logging HTTP/1.1" 200 -
+2019-01-05 14:52:39,485 : 127.0.0.1 - - [05/Jan/2019 14:52:39] "POST /react HTTP/1.1" 200 -
+2019-01-05 14:52:39,493 : 127.0.0.1 - - [05/Jan/2019 14:52:39] "POST /logging HTTP/1.1" 200 -
+2019-01-05 15:02:40,832 : 127.0.0.1 - - [05/Jan/2019 15:02:40] "GET /front_end/game.html HTTP/1.1" 304 -
+2019-01-05 21:25:38,267 : 127.0.0.1 - - [05/Jan/2019 21:25:38] "GET / HTTP/1.1" 302 -
+2019-01-05 21:25:38,320 : 127.0.0.1 - - [05/Jan/2019 21:25:38] "GET /front_end/assets/image/gomoku.png HTTP/1.1" 200 -
+2019-01-05 23:14:21,671 : {"searched_nodes": 18409, "depth": 4, "pos": [7, 7], "nodes_num": 145925, "cut_time": 2899, "heuristic": true, "computing_time": 1.585942}
+2019-01-05 23:14:21,672 : 127.0.0.1 - - [05/Jan/2019 23:14:21] "POST /react HTTP/1.1" 200 -
+2019-01-06 11:54:23,656 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/solution.py', reloading

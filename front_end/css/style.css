@@ -1,0 +1,11 @@
+#game{
+    text-align: center;
+    margin: 0 auto;
+    width: 650px;
+}
+
+#topboard{
+    height: 80px;
+    width: 618px;
+    margin-bottom: -27px;
+}

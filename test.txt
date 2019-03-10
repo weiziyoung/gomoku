@@ -1,0 +1,444 @@
+2019-01-06 11:54:34,711 : {"computing_time": 1.58988, "pos": [7, 7], "searched_nodes": 18409, "cut_time": 2899, "heuristic": true, "depth": 4, "nodes_num": 145925}
+2019-01-06 11:54:34,712 : 127.0.0.1 - - [06/Jan/2019 11:54:34] "POST /react HTTP/1.1" 200 -
+2019-01-06 11:54:57,399 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/MiniMax.py', reloading
+2019-01-06 11:55:07,527 : {"computing_time": 2.396679, "heuristic": true, "searched_nodes": 58791, "pos": [7, 7], "nodes_num": 188394, "cut_time": 3253, "depth": 4}
+2019-01-06 11:55:07,528 : 127.0.0.1 - - [06/Jan/2019 11:55:07] "POST /react HTTP/1.1" 200 -
+2019-01-06 11:56:32,700 : {"computing_time": 11.872394, "heuristic": true, "searched_nodes": 432628, "pos": [8, 8], "nodes_num": 764745, "cut_time": 10656, "depth": 4}
+2019-01-06 11:56:32,701 : 127.0.0.1 - - [06/Jan/2019 11:56:32] "POST /react HTTP/1.1" 200 -
+2019-01-06 11:57:09,776 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/MiniMax.py', reloading
+2019-01-06 11:57:23,375 : {"depth": 4, "cut_time": 6921, "computing_time": 4.967783, "pos": [8, 8], "searched_nodes": 41571, "heuristic": true, "nodes_num": 491819}
+2019-01-06 11:57:23,376 : 127.0.0.1 - - [06/Jan/2019 11:57:23] "POST /react HTTP/1.1" 200 -
+2019-01-06 12:00:09,208 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/MiniMax.py', reloading
+2019-01-06 12:00:37,800 : {"pos": [7, 7], "mark": -202, "heuristic": true, "nodes_num": 145925, "depth": 4, "computing_time": 1.573107, "searched_nodes": 18409, "cut_time": 2899}
+2019-01-06 12:00:37,801 : 127.0.0.1 - - [06/Jan/2019 12:00:37] "POST /react HTTP/1.1" 200 -
+2019-01-06 12:00:52,235 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/MiniMax.py', reloading
+2019-01-06 12:01:15,086 : {"nodes_num": 188394, "mark": -202, "computing_time": 2.451388, "searched_nodes": 58791, "pos": [7, 7], "depth": 4, "cut_time": 3253, "heuristic": true}
+2019-01-06 12:01:15,087 : 127.0.0.1 - - [06/Jan/2019 12:01:15] "POST /react HTTP/1.1" 200 -
+2019-01-06 12:01:51,138 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/MiniMax.py', reloading
+2019-01-06 13:26:32,690 : {"heuristic": true, "pos": [7, 7], "mark": -202, "searched_nodes": 58791, "nodes_num": 188394, "computing_time": 2.360388, "cut_time": 3253, "depth": 4}
+2019-01-06 13:26:32,691 : 127.0.0.1 - - [06/Jan/2019 13:26:32] "POST /react HTTP/1.1" 200 -
+2019-01-06 13:26:46,715 : {"heuristic": true, "pos": [6, 6], "mark": -903, "searched_nodes": 481409, "nodes_num": 763592, "computing_time": 12.429998, "cut_time": 10491, "depth": 4}
+2019-01-06 13:26:46,715 : 127.0.0.1 - - [06/Jan/2019 13:26:46] "POST /react HTTP/1.1" 200 -
+2019-01-06 13:26:56,105 : {"heuristic": true, "pos": [8, 8], "mark": -902, "searched_nodes": 145218, "nodes_num": 591886, "computing_time": 6.982507, "cut_time": 6968, "depth": 4}
+2019-01-06 13:26:56,106 : 127.0.0.1 - - [06/Jan/2019 13:26:56] "POST /react HTTP/1.1" 200 -
+2019-01-06 13:27:32,498 : {"heuristic": true, "pos": [9, 9], "mark": -99904, "searched_nodes": 1578631, "nodes_num": 1720383, "computing_time": 34.594425, "cut_time": 17659, "depth": 4}
+2019-01-06 13:27:32,499 : 127.0.0.1 - - [06/Jan/2019 13:27:32] "POST /react HTTP/1.1" 200 -
+2019-01-06 13:27:45,048 : 127.0.0.1 - - [06/Jan/2019 13:27:45] "POST /react HTTP/1.1" 200 -
+2019-01-06 13:27:45,055 : 127.0.0.1 - - [06/Jan/2019 13:27:45] "POST /logging HTTP/1.1" 200 -
+2019-01-06 13:33:26,478 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/MiniMax.py', reloading
+2019-01-06 13:33:32,024 : {"cut_time": 2899, "computing_time": 1.585142, "searched_nodes": 18409, "heuristic": true, "mark": -202, "nodes_num": 145925, "depth": 4, "pos": [7, 7]}
+2019-01-06 13:33:32,025 : 127.0.0.1 - - [06/Jan/2019 13:33:32] "POST /react HTTP/1.1" 200 -
+2019-01-06 13:33:36,857 : {"cut_time": 5772, "computing_time": 3.66339, "searched_nodes": 33580, "heuristic": true, "mark": -902, "nodes_num": 342990, "depth": 4, "pos": [6, 8]}
+2019-01-06 13:33:36,857 : 127.0.0.1 - - [06/Jan/2019 13:33:36] "POST /react HTTP/1.1" 200 -
+2019-01-06 13:33:45,806 : {"cut_time": 8502, "computing_time": 6.304454, "searched_nodes": 62163, "heuristic": true, "mark": -103, "nodes_num": 559827, "depth": 4, "pos": [8, 8]}
+2019-01-06 13:33:45,807 : 127.0.0.1 - - [06/Jan/2019 13:33:45] "POST /react HTTP/1.1" 200 -
+2019-01-06 13:33:58,925 : {"cut_time": 10412, "computing_time": 9.630589, "searched_nodes": 60408, "heuristic": true, "mark": -402, "nodes_num": 898186, "depth": 4, "pos": [9, 9]}
+2019-01-06 13:33:58,927 : 127.0.0.1 - - [06/Jan/2019 13:33:58] "POST /react HTTP/1.1" 200 -
+2019-01-06 13:35:02,350 : {"cut_time": 2086, "computing_time": 2.644347, "searched_nodes": 41094, "heuristic": true, "mark": -403, "nodes_num": 217650, "depth": 4, "pos": [10, 10]}
+2019-01-06 13:35:02,350 : 127.0.0.1 - - [06/Jan/2019 13:35:02] "POST /react HTTP/1.1" 200 -
+2019-01-06 13:35:21,678 : {"cut_time": 13957, "computing_time": 15.218848, "searched_nodes": 92477, "heuristic": true, "mark": -1101, "nodes_num": 1282484, "depth": 4, "pos": [7, 9]}
+2019-01-06 13:35:21,679 : 127.0.0.1 - - [06/Jan/2019 13:35:21] "POST /react HTTP/1.1" 200 -
+2019-01-06 13:35:40,812 : {"cut_time": 11229, "computing_time": 12.746009, "searched_nodes": 72593, "heuristic": true, "mark": -1103, "nodes_num": 1062897, "depth": 4, "pos": [7, 6]}
+2019-01-06 13:35:40,813 : 127.0.0.1 - - [06/Jan/2019 13:35:40] "POST /react HTTP/1.1" 200 -
+2019-01-06 13:36:10,827 : {"cut_time": 18369, "computing_time": 21.171255, "searched_nodes": 121627, "heuristic": true, "mark": -2001, "nodes_num": 1742870, "depth": 4, "pos": [6, 9]}
+2019-01-06 13:36:10,827 : 127.0.0.1 - - [06/Jan/2019 13:36:10] "POST /react HTTP/1.1" 200 -
+2019-01-06 13:37:12,141 : {"cut_time": 18814, "computing_time": 23.738983, "searched_nodes": 93046, "heuristic": true, "mark": -9206, "nodes_num": 1996346, "depth": 4, "pos": [10, 5]}
+2019-01-06 13:37:12,142 : 127.0.0.1 - - [06/Jan/2019 13:37:12] "POST /react HTTP/1.1" 200 -
+2019-01-06 13:37:55,893 : {"cut_time": 29542, "computing_time": 39.713483, "searched_nodes": 165561, "heuristic": true, "mark": -9103, "nodes_num": 3194392, "depth": 4, "pos": [8, 10]}
+2019-01-06 13:37:55,894 : 127.0.0.1 - - [06/Jan/2019 13:37:55] "POST /react HTTP/1.1" 200 -
+2019-01-06 13:39:23,338 : {"cut_time": 52883, "computing_time": 71.767217, "searched_nodes": 233214, "heuristic": true, "mark": -90504, "nodes_num": 5820049, "depth": 4, "pos": [6, 10]}
+2019-01-06 13:39:23,339 : 127.0.0.1 - - [06/Jan/2019 13:39:23] "POST /react HTTP/1.1" 200 -
+2019-01-06 13:42:19,078 : {"cut_time": 7117, "computing_time": 11.640856, "searched_nodes": 103063, "heuristic": true, "mark": -9205, "nodes_num": 822813, "depth": 4, "pos": [10, 6]}
+2019-01-06 13:42:19,078 : 127.0.0.1 - - [06/Jan/2019 13:42:19] "POST /react HTTP/1.1" 200 -
+2019-01-06 13:44:16,611 : {"cut_time": 7804, "computing_time": 12.45462, "searched_nodes": 89505, "heuristic": true, "mark": -10002, "nodes_num": 887107, "depth": 4, "pos": [9, 10]}
+2019-01-06 13:44:16,612 : 127.0.0.1 - - [06/Jan/2019 13:44:16] "POST /react HTTP/1.1" 200 -
+2019-01-06 13:44:27,022 : {"cut_time": 3279, "computing_time": 6.262736, "searched_nodes": 69264, "heuristic": true, "mark": -99202, "nodes_num": 402806, "depth": 4, "pos": [9, 11]}
+2019-01-06 13:44:27,023 : 127.0.0.1 - - [06/Jan/2019 13:44:27] "POST /react HTTP/1.1" 200 -
+2019-01-06 13:45:11,206 : {"cut_time": 18761, "computing_time": 29.516377, "searched_nodes": 122302, "heuristic": true, "mark": -3201, "nodes_num": 1992373, "depth": 4, "pos": [10, 8]}
+2019-01-06 13:45:11,207 : 127.0.0.1 - - [06/Jan/2019 13:45:11] "POST /react HTTP/1.1" 200 -
+2019-01-06 13:56:30,225 : {"cut_time": 2899, "computing_time": 1.553693, "searched_nodes": 18409, "heuristic": true, "mark": -202, "nodes_num": 145925, "depth": 4, "pos": [7, 7]}
+2019-01-06 13:56:30,225 : 127.0.0.1 - - [06/Jan/2019 13:56:30] "POST /react HTTP/1.1" 200 -
+2019-01-06 13:56:35,015 : {"cut_time": 5772, "computing_time": 3.600955, "searched_nodes": 33580, "heuristic": true, "mark": -902, "nodes_num": 342990, "depth": 4, "pos": [6, 8]}
+2019-01-06 13:56:35,016 : 127.0.0.1 - - [06/Jan/2019 13:56:35] "POST /react HTTP/1.1" 200 -
+2019-01-06 13:56:49,054 : {"cut_time": 8502, "computing_time": 6.240169, "searched_nodes": 62163, "heuristic": true, "mark": -103, "nodes_num": 559827, "depth": 4, "pos": [8, 8]}
+2019-01-06 13:56:49,054 : 127.0.0.1 - - [06/Jan/2019 13:56:49] "POST /react HTTP/1.1" 200 -
+2019-01-06 14:20:12,051 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/MiniMax.py', reloading
+2019-01-06 15:33:34,458 : {"computing_time": 0.000616, "depth": 1, "pos": [7, 7], "mark": -1, "heuristic": true, "nodes_num": 24, "cut_time": 0, "searched_nodes": 25}
+2019-01-06 15:33:34,459 : 127.0.0.1 - - [06/Jan/2019 15:33:34] "POST /react HTTP/1.1" 200 -
+2019-01-06 15:33:36,092 : {"computing_time": 0.00095, "depth": 1, "pos": [6, 8], "mark": -1, "heuristic": true, "nodes_num": 32, "cut_time": 0, "searched_nodes": 33}
+2019-01-06 15:33:36,093 : 127.0.0.1 - - [06/Jan/2019 15:33:36] "POST /react HTTP/1.1" 200 -
+2019-01-06 15:33:43,049 : {"computing_time": 0.00112, "depth": 1, "pos": [7, 9], "mark": 98, "heuristic": true, "nodes_num": 41, "cut_time": 0, "searched_nodes": 42}
+2019-01-06 15:33:43,049 : 127.0.0.1 - - [06/Jan/2019 15:33:43] "POST /react HTTP/1.1" 200 -
+2019-01-06 15:33:56,430 : {"computing_time": 0.001066, "depth": 1, "pos": [7, 9], "mark": 98, "heuristic": true, "nodes_num": 41, "cut_time": 0, "searched_nodes": 42}
+2019-01-06 15:33:56,431 : 127.0.0.1 - - [06/Jan/2019 15:33:56] "POST /react HTTP/1.1" 200 -
+2019-01-06 15:34:01,588 : {"computing_time": 0.001316, "depth": 1, "pos": [8, 10], "mark": 997, "heuristic": true, "nodes_num": 51, "cut_time": 0, "searched_nodes": 52}
+2019-01-06 15:34:01,589 : 127.0.0.1 - - [06/Jan/2019 15:34:01] "POST /react HTTP/1.1" 200 -
+2019-01-06 15:34:06,626 : {"computing_time": 0.001518, "depth": 1, "pos": [9, 11], "mark": 9096, "heuristic": true, "nodes_num": 61, "cut_time": 0, "searched_nodes": 62}
+2019-01-06 15:34:06,627 : 127.0.0.1 - - [06/Jan/2019 15:34:06] "POST /react HTTP/1.1" 200 -
+2019-01-06 15:34:08,027 : {"computing_time": 0.001725, "depth": 1, "pos": [5, 6], "mark": 100095, "heuristic": true, "nodes_num": 64, "cut_time": 0, "searched_nodes": 65}
+2019-01-06 15:34:08,028 : 127.0.0.1 - - [06/Jan/2019 15:34:08] "POST /react HTTP/1.1" 200 -
+2019-01-06 15:34:08,035 : 127.0.0.1 - - [06/Jan/2019 15:34:08] "POST /logging HTTP/1.1" 200 -
+2019-01-06 15:34:12,960 : {"computing_time": 0.002526, "depth": 1, "pos": [5, 8], "mark": 899, "heuristic": true, "nodes_num": 52, "cut_time": 0, "searched_nodes": 53}
+2019-01-06 15:34:12,960 : 127.0.0.1 - - [06/Jan/2019 15:34:12] "POST /react HTTP/1.1" 200 -
+2019-01-06 15:34:15,886 : {"computing_time": 0.001618, "depth": 1, "pos": [9, 11], "mark": 8996, "heuristic": true, "nodes_num": 59, "cut_time": 0, "searched_nodes": 60}
+2019-01-06 15:34:15,888 : 127.0.0.1 - - [06/Jan/2019 15:34:15] "POST /react HTTP/1.1" 200 -
+2019-01-06 15:34:18,600 : {"computing_time": 0.001522, "depth": 1, "pos": [8, 7], "mark": 995, "heuristic": true, "nodes_num": 53, "cut_time": 0, "searched_nodes": 54}
+2019-01-06 15:34:18,601 : 127.0.0.1 - - [06/Jan/2019 15:34:18] "POST /react HTTP/1.1" 200 -
+2019-01-06 15:34:19,692 : {"computing_time": 0.001628, "depth": 1, "pos": [4, 9], "mark": 899, "heuristic": true, "nodes_num": 61, "cut_time": 0, "searched_nodes": 62}
+2019-01-06 15:34:19,693 : 127.0.0.1 - - [06/Jan/2019 15:34:19] "POST /react HTTP/1.1" 200 -
+2019-01-06 15:34:20,878 : {"computing_time": 0.001628, "depth": 1, "pos": [6, 10], "mark": 9696, "heuristic": true, "nodes_num": 60, "cut_time": 0, "searched_nodes": 61}
+2019-01-06 15:34:20,878 : 127.0.0.1 - - [06/Jan/2019 15:34:20] "POST /react HTTP/1.1" 200 -
+2019-01-06 15:34:23,785 : {"computing_time": 0.000618, "depth": 1, "pos": [7, 7], "mark": -1, "heuristic": true, "nodes_num": 24, "cut_time": 0, "searched_nodes": 25}
+2019-01-06 15:34:23,786 : 127.0.0.1 - - [06/Jan/2019 15:34:23] "POST /react HTTP/1.1" 200 -
+2019-01-06 15:34:28,623 : {"computing_time": 0.001159, "depth": 1, "pos": [7, 7], "mark": -1, "heuristic": true, "nodes_num": 24, "cut_time": 0, "searched_nodes": 25}
+2019-01-06 15:34:28,624 : 127.0.0.1 - - [06/Jan/2019 15:34:28] "POST /react HTTP/1.1" 200 -
+2019-01-06 15:34:32,534 : 127.0.0.1 - - [06/Jan/2019 15:34:32] "GET /front_end/game.html HTTP/1.1" 304 -
+2019-01-06 15:34:33,294 : {"computing_time": 0.000574, "depth": 1, "pos": [7, 7], "mark": -1, "heuristic": true, "nodes_num": 24, "cut_time": 0, "searched_nodes": 25}
+2019-01-06 15:34:33,295 : 127.0.0.1 - - [06/Jan/2019 15:34:33] "POST /react HTTP/1.1" 200 -
+2019-01-06 15:34:34,414 : {"computing_time": 0.00098, "depth": 1, "pos": [6, 8], "mark": -1, "heuristic": true, "nodes_num": 32, "cut_time": 0, "searched_nodes": 33}
+2019-01-06 15:34:34,414 : 127.0.0.1 - - [06/Jan/2019 15:34:34] "POST /react HTTP/1.1" 200 -
+2019-01-06 15:34:35,385 : {"computing_time": 0.001059, "depth": 1, "pos": [7, 9], "mark": 98, "heuristic": true, "nodes_num": 41, "cut_time": 0, "searched_nodes": 42}
+2019-01-06 15:34:35,386 : 127.0.0.1 - - [06/Jan/2019 15:34:35] "POST /react HTTP/1.1" 200 -
+2019-01-06 15:34:36,819 : {"computing_time": 0.00141, "depth": 1, "pos": [8, 10], "mark": 997, "heuristic": true, "nodes_num": 51, "cut_time": 0, "searched_nodes": 52}
+2019-01-06 15:34:36,820 : 127.0.0.1 - - [06/Jan/2019 15:34:36] "POST /react HTTP/1.1" 200 -
+2019-01-06 15:34:40,642 : {"computing_time": 0.001463, "depth": 1, "pos": [9, 11], "mark": 9096, "heuristic": true, "nodes_num": 61, "cut_time": 0, "searched_nodes": 62}
+2019-01-06 15:34:40,643 : 127.0.0.1 - - [06/Jan/2019 15:34:40] "POST /react HTTP/1.1" 200 -
+2019-01-06 15:34:42,068 : 127.0.0.1 - - [06/Jan/2019 15:34:42] "POST /react HTTP/1.1" 200 -
+2019-01-06 15:34:42,075 : 127.0.0.1 - - [06/Jan/2019 15:34:42] "POST /logging HTTP/1.1" 200 -
+2019-01-06 15:34:49,102 : {"computing_time": 0.001092, "depth": 1, "pos": [7, 9], "mark": 98, "heuristic": true, "nodes_num": 41, "cut_time": 0, "searched_nodes": 42}
+2019-01-06 15:34:49,103 : 127.0.0.1 - - [06/Jan/2019 15:34:49] "POST /react HTTP/1.1" 200 -
+2019-01-06 15:35:25,118 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/main.py', reloading
+2019-01-06 15:35:31,379 : {"heuristic": true, "nodes_num": 2312, "cut_time": 0, "depth": 2, "searched_nodes": 2313, "mark": -903, "computing_time": 0.052671, "pos": [8, 8]}
+2019-01-06 15:35:31,380 : 127.0.0.1 - - [06/Jan/2019 15:35:31] "POST /react HTTP/1.1" 200 -
+2019-01-06 15:36:39,925 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/main.py', reloading
+2019-01-06 15:36:46,564 : {"computing_time": 2.896326, "mark": 99, "searched_nodes": 135744, "heuristic": true, "cut_time": 0, "nodes_num": 135743, "pos": [8, 8], "depth": 3}
+2019-01-06 15:36:46,565 : 127.0.0.1 - - [06/Jan/2019 15:36:46] "POST /react HTTP/1.1" 200 -
+2019-01-06 15:36:58,919 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/main.py', reloading
+2019-01-06 15:40:13,006 : {"cut_time": 0, "nodes_num": 8909425, "pos": [8, 8], "mark": -903, "depth": 4, "computing_time": 192.66528, "heuristic": true, "searched_nodes": 8909426}
+2019-01-06 15:40:13,008 : 127.0.0.1 - - [06/Jan/2019 15:40:13] "POST /react HTTP/1.1" 200 -
+2019-01-06 15:42:07,369 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/MiniMax.py', reloading
+2019-01-06 15:52:55,631 : {"computing_time": 2.003833, "searched_nodes": 52937, "pos": [8, 8], "depth": 4, "cut_time": 4291, "mark": -903, "nodes_num": 280192, "heuristic": false}
+2019-01-06 15:52:55,632 : 127.0.0.1 - - [06/Jan/2019 15:52:55] "POST /react HTTP/1.1" 200 -
+2019-01-06 15:53:54,355 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/MiniMax.py', reloading
+2019-01-06 15:54:36,867 : {"depth": 1, "pos": [8, 8], "heuristic": false, "computing_time": 0.000889, "cut_time": 0, "nodes_num": 44, "mark": 99, "searched_nodes": 45}
+2019-01-06 15:54:36,868 : 127.0.0.1 - - [06/Jan/2019 15:54:36] "POST /react HTTP/1.1" 200 -
+2019-01-06 15:55:21,868 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/MiniMax.py', reloading
+2019-01-06 15:55:32,498 : {"pos": [8, 8], "searched_nodes": 578, "cut_time": 42, "nodes_num": 2312, "computing_time": 0.020102, "mark": -903, "heuristic": false, "depth": 2}
+2019-01-06 15:55:32,499 : 127.0.0.1 - - [06/Jan/2019 15:55:32] "POST /react HTTP/1.1" 200 -
+2019-01-06 15:56:19,777 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/MiniMax.py', reloading
+2019-01-06 15:56:23,897 : {"cut_time": 251, "depth": 3, "searched_nodes": 5776, "computing_time": 0.156703, "pos": [8, 8], "nodes_num": 18451, "mark": 99, "heuristic": false}
+2019-01-06 15:56:23,898 : 127.0.0.1 - - [06/Jan/2019 15:56:23] "POST /react HTTP/1.1" 200 -
+2019-01-06 15:57:09,513 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/MiniMax.py', reloading
+2019-01-06 15:57:53,973 : {"nodes_num": 3375268, "heuristic": false, "mark": 99, "searched_nodes": 980541, "depth": 5, "pos": [8, 8], "cut_time": 43795, "computing_time": 28.184625}
+2019-01-06 15:57:53,974 : 127.0.0.1 - - [06/Jan/2019 15:57:53] "POST /react HTTP/1.1" 200 -
+2019-01-06 15:58:24,550 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/MiniMax.py', reloading
+2019-01-06 16:07:30,811 : {"cut_time": 977809, "computing_time": 539.713689, "heuristic": false, "nodes_num": 74333907, "pos": [8, 8], "mark": -1003, "depth": 6, "searched_nodes": 16788926}
+2019-01-06 16:07:30,812 : 127.0.0.1 - - [06/Jan/2019 16:07:30] "POST /react HTTP/1.1" 200 -
+2019-01-06 16:14:36,878 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/MiniMax.py', reloading
+2019-01-06 16:17:11,284 : {"searched_nodes": 45, "computing_time": 0.001054, "mark": 99, "cut_time": 0, "heuristic": true, "nodes_num": 44, "pos": [8, 8], "depth": 1}
+2019-01-06 16:17:11,284 : 127.0.0.1 - - [06/Jan/2019 16:17:11] "POST /react HTTP/1.1" 200 -
+2019-01-06 16:17:39,606 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/MiniMax.py', reloading
+2019-01-06 16:17:44,577 : {"nodes_num": 2312, "heuristic": true, "pos": [8, 8], "cut_time": 41, "mark": -903, "depth": 2, "computing_time": 0.043837, "searched_nodes": 1498}
+2019-01-06 16:17:44,578 : 127.0.0.1 - - [06/Jan/2019 16:17:44] "POST /react HTTP/1.1" 200 -
+2019-01-06 16:18:53,125 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/MiniMax.py', reloading
+2019-01-06 16:18:58,686 : {"heuristic": true, "computing_time": 0.591421, "pos": [8, 8], "depth": 3, "mark": 99, "searched_nodes": 8564, "cut_time": 723, "nodes_num": 48843}
+2019-01-06 16:18:58,687 : 127.0.0.1 - - [06/Jan/2019 16:18:58] "POST /react HTTP/1.1" 200 -
+2019-01-06 16:19:18,245 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/MiniMax.py', reloading
+2019-01-06 16:24:08,221 : {"nodes_num": 576802, "cut_time": 8056, "searched_nodes": 255659, "mark": -903, "pos": [8, 8], "computing_time": 8.935225, "depth": 4, "heuristic": true}
+2019-01-06 16:24:08,222 : 127.0.0.1 - - [06/Jan/2019 16:24:08] "POST /react HTTP/1.1" 200 -
+2019-01-06 17:00:03,649 :  * Detected change in '/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/GMK.cpython-35m-darwin.so', reloading
+2019-01-06 17:00:30,897 : {"mark": -903, "pos": [8, 8], "nodes_num": 2312, "heuristic": true, "depth": 2, "computing_time": 0.044929, "searched_nodes": 1823, "cut_time": 43}
+2019-01-06 17:00:30,898 : 127.0.0.1 - - [06/Jan/2019 17:00:30] "POST /react HTTP/1.1" 200 -
+2019-01-06 17:01:17,579 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/MiniMax.py', reloading
+2019-01-06 17:04:03,539 : {"nodes_num": 43804, "pos": [8, 8], "computing_time": 0.521815, "depth": 3, "searched_nodes": 9072, "heuristic": true, "mark": 98, "cut_time": 649}
+2019-01-06 17:04:03,540 : 127.0.0.1 - - [06/Jan/2019 17:04:03] "POST /react HTTP/1.1" 200 -
+2019-01-06 17:04:44,892 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/MiniMax.py', reloading
+2019-01-06 17:05:19,924 : {"pos": [8, 8], "computing_time": 0.477568, "depth": 3, "mark": 98, "nodes_num": 29990, "cut_time": 436, "searched_nodes": 14763, "heuristic": true}
+2019-01-06 17:05:19,925 : 127.0.0.1 - - [06/Jan/2019 17:05:19] "POST /react HTTP/1.1" 200 -
+2019-01-06 17:06:19,674 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/MiniMax.py', reloading
+2019-01-06 17:06:33,529 : {"depth": 3, "heuristic": true, "cut_time": 649, "pos": [8, 8], "mark": 98, "nodes_num": 43804, "searched_nodes": 9072, "computing_time": 0.530581}
+2019-01-06 17:06:33,530 : 127.0.0.1 - - [06/Jan/2019 17:06:33] "POST /react HTTP/1.1" 200 -
+2019-01-06 17:06:44,891 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/MiniMax.py', reloading
+2019-01-06 17:06:57,140 : {"depth": 4, "searched_nodes": 270421, "computing_time": 7.647719, "pos": [8, 8], "heuristic": true, "cut_time": 6884, "nodes_num": 482271, "mark": -903}
+2019-01-06 17:06:57,141 : 127.0.0.1 - - [06/Jan/2019 17:06:57] "POST /react HTTP/1.1" 200 -
+2019-01-06 18:21:36,580 : {"depth": 4, "searched_nodes": 270421, "computing_time": 626.103173, "pos": [8, 8], "heuristic": true, "cut_time": 6884, "nodes_num": 482271, "mark": -903}
+2019-01-06 18:21:36,582 : 127.0.0.1 - - [06/Jan/2019 18:21:36] "POST /react HTTP/1.1" 200 -
+2019-01-06 18:26:25,852 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/MiniMax.py', reloading
+2019-01-06 18:28:58,136 : {"computing_time": 148.629167, "cut_time": 184232, "nodes_num": 13528958, "mark": 197, "depth": 5, "searched_nodes": 1416777, "pos": [8, 8], "heuristic": true}
+2019-01-06 18:28:58,138 : 127.0.0.1 - - [06/Jan/2019 18:28:58] "POST /react HTTP/1.1" 200 -
+2019-01-06 18:31:14,683 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/MiniMax.py', reloading
+2019-01-06 19:06:13,025 : {"computing_time": 2092.446735, "cut_time": 1518445, "depth": 6, "searched_nodes": 69889797, "heuristic": true, "mark": -1003, "pos": [8, 8], "nodes_num": 130062965}
+2019-01-06 19:06:13,027 : 127.0.0.1 - - [06/Jan/2019 19:06:13] "POST /react HTTP/1.1" 200 -
+2019-01-06 19:08:09,423 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/MiniMax.py', reloading
+2019-01-06 19:25:26,503 : {"mark": -1003, "pos": [8, 8], "heuristic": true, "computing_time": 1025.999318, "nodes_num": 96240648, "depth": 6, "searched_nodes": 7058269, "cut_time": 1219064}
+2019-01-06 19:25:26,505 : 127.0.0.1 - - [06/Jan/2019 19:25:26] "POST /react HTTP/1.1" 200 -
+2019-01-06 19:32:07,036 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/MiniMax.py', reloading
+2019-01-06 19:33:07,678 : {"computing_time": 57.007305, "mark": 197, "pos": [8, 8], "searched_nodes": 1504768, "cut_time": 47945, "heuristic": true, "depth": 5, "nodes_num": 3975633}
+2019-01-06 19:33:07,679 : 127.0.0.1 - - [06/Jan/2019 19:33:07] "POST /react HTTP/1.1" 200 -
+2019-01-06 19:35:52,412 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/MiniMax.py', reloading
+2019-01-06 19:36:01,789 : {"pos": [8, 8], "heuristic": true, "computing_time": 6.084264, "depth": 4, "nodes_num": 543499, "mark": -903, "cut_time": 7847, "searched_nodes": 58758}
+2019-01-06 19:36:01,790 : 127.0.0.1 - - [06/Jan/2019 19:36:01] "POST /react HTTP/1.1" 200 -
+2019-01-06 19:37:24,382 : {"pos": [8, 8], "heuristic": true, "computing_time": 6.260408, "depth": 4, "nodes_num": 543499, "mark": -903, "cut_time": 7847, "searched_nodes": 58758}
+2019-01-06 19:37:24,383 : 127.0.0.1 - - [06/Jan/2019 19:37:24] "POST /react HTTP/1.1" 200 -
+2019-01-06 19:37:26,445 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/MiniMax.py', reloading
+2019-01-06 19:37:32,525 : {"cut_time": 436, "pos": [8, 8], "nodes_num": 29990, "depth": 3, "heuristic": true, "searched_nodes": 14763, "mark": 98, "computing_time": 0.481298}
+2019-01-06 19:37:32,526 : 127.0.0.1 - - [06/Jan/2019 19:37:32] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:16:15,303 :  * Detected change in '/Users/weiziyang/study/Foudation_of_AI/cw2/backend/MiniMax.py', reloading
+2019-01-06 20:16:17,944 : {"nodes_num": 840, "cut_time": 23, "pos": [7, 7], "searched_nodes": 273, "heuristic": true, "mark": -102, "computing_time": 0.013251, "depth": 2}
+2019-01-06 20:16:17,945 : 127.0.0.1 - - [06/Jan/2019 20:16:17] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:16:19,004 : {"nodes_num": 1340, "cut_time": 29, "pos": [6, 8], "searched_nodes": 227, "heuristic": true, "mark": -202, "computing_time": 0.018965, "depth": 2}
+2019-01-06 20:16:19,006 : 127.0.0.1 - - [06/Jan/2019 20:16:19] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:16:20,673 : {"nodes_num": 2696, "cut_time": 44, "pos": [5, 9], "searched_nodes": 320, "heuristic": true, "mark": -302, "computing_time": 0.030559, "depth": 2}
+2019-01-06 20:16:20,674 : 127.0.0.1 - - [06/Jan/2019 20:16:20] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:16:22,956 : {"nodes_num": 3812, "cut_time": 54, "pos": [4, 8], "searched_nodes": 434, "heuristic": true, "mark": -401, "computing_time": 0.044788, "depth": 2}
+2019-01-06 20:16:22,957 : 127.0.0.1 - - [06/Jan/2019 20:16:22] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:16:24,147 : {"nodes_num": 4950, "cut_time": 64, "pos": [6, 10], "searched_nodes": 351, "heuristic": true, "mark": -902, "computing_time": 0.056046, "depth": 2}
+2019-01-06 20:16:24,147 : 127.0.0.1 - - [06/Jan/2019 20:16:24] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:16:25,623 : {"nodes_num": 5795, "cut_time": 69, "pos": [7, 11], "searched_nodes": 461, "heuristic": true, "mark": -1002, "computing_time": 0.065779, "depth": 2}
+2019-01-06 20:16:25,624 : 127.0.0.1 - - [06/Jan/2019 20:16:25] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:16:28,854 : {"nodes_num": 6997, "cut_time": 76, "pos": [6, 11], "searched_nodes": 607, "heuristic": true, "mark": -101, "computing_time": 0.085392, "depth": 2}
+2019-01-06 20:16:28,855 : 127.0.0.1 - - [06/Jan/2019 20:16:28] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:16:31,531 : {"nodes_num": 6677, "cut_time": 74, "pos": [8, 11], "searched_nodes": 632, "heuristic": true, "mark": 97, "computing_time": 0.087621, "depth": 2}
+2019-01-06 20:16:31,532 : 127.0.0.1 - - [06/Jan/2019 20:16:31] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:16:35,465 : {"nodes_num": 6519, "cut_time": 73, "pos": [5, 10], "searched_nodes": 691, "heuristic": true, "mark": -3, "computing_time": 0.08711, "depth": 2}
+2019-01-06 20:16:35,465 : 127.0.0.1 - - [06/Jan/2019 20:16:35] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:16:36,914 : {"nodes_num": 6809, "cut_time": 72, "pos": [6, 12], "searched_nodes": 1071, "heuristic": true, "mark": -104, "computing_time": 0.100188, "depth": 2}
+2019-01-06 20:16:36,915 : 127.0.0.1 - - [06/Jan/2019 20:16:36] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:16:38,242 : {"nodes_num": 7425, "cut_time": 77, "pos": [2, 8], "searched_nodes": 757, "heuristic": true, "mark": -205, "computing_time": 0.108904, "depth": 2}
+2019-01-06 20:16:38,242 : 127.0.0.1 - - [06/Jan/2019 20:16:38] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:16:41,569 : {"nodes_num": 7257, "cut_time": 77, "pos": [3, 10], "searched_nodes": 819, "heuristic": true, "mark": -4, "computing_time": 0.108367, "depth": 2}
+2019-01-06 20:16:41,571 : 127.0.0.1 - - [06/Jan/2019 20:16:41] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:16:42,661 : {"nodes_num": 8657, "cut_time": 87, "pos": [3, 6], "searched_nodes": 609, "heuristic": true, "mark": -106, "computing_time": 0.124335, "depth": 2}
+2019-01-06 20:16:42,662 : 127.0.0.1 - - [06/Jan/2019 20:16:42] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:16:44,319 : {"nodes_num": 11041, "cut_time": 99, "pos": [9, 6], "searched_nodes": 680, "heuristic": true, "mark": -206, "computing_time": 0.151658, "depth": 2}
+2019-01-06 20:16:44,320 : 127.0.0.1 - - [06/Jan/2019 20:16:44] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:16:48,791 : {"nodes_num": 10633, "cut_time": 97, "pos": [5, 6], "searched_nodes": 674, "heuristic": true, "mark": 494, "computing_time": 0.15203, "depth": 2}
+2019-01-06 20:16:48,792 : 127.0.0.1 - - [06/Jan/2019 20:16:48] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:16:52,942 : {"nodes_num": 11672, "cut_time": 102, "pos": [4, 4], "searched_nodes": 702, "heuristic": true, "mark": 592, "computing_time": 0.171635, "depth": 2}
+2019-01-06 20:16:52,943 : 127.0.0.1 - - [06/Jan/2019 20:16:52] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:16:55,083 : {"nodes_num": 11453, "cut_time": 99, "pos": [8, 8], "searched_nodes": 872, "heuristic": true, "mark": -102, "computing_time": 0.177825, "depth": 2}
+2019-01-06 20:16:55,084 : 127.0.0.1 - - [06/Jan/2019 20:16:55] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:16:56,799 : {"nodes_num": 10935, "cut_time": 97, "pos": [6, 7], "searched_nodes": 736, "heuristic": true, "mark": 99796, "computing_time": 0.16821, "depth": 2}
+2019-01-06 20:16:56,800 : 127.0.0.1 - - [06/Jan/2019 20:16:56] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:16:56,810 : 127.0.0.1 - - [06/Jan/2019 20:16:56] "POST /logging HTTP/1.1" 200 -
+2019-01-06 20:17:01,234 : {"nodes_num": 11037, "cut_time": 97, "pos": [2, 7], "searched_nodes": 842, "heuristic": true, "mark": -1004, "computing_time": 0.172516, "depth": 2}
+2019-01-06 20:17:01,234 : 127.0.0.1 - - [06/Jan/2019 20:17:01] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:17:02,739 : {"nodes_num": 12515, "cut_time": 104, "pos": [8, 4], "searched_nodes": 878, "heuristic": true, "mark": -1102, "computing_time": 0.192949, "depth": 2}
+2019-01-06 20:17:02,740 : 127.0.0.1 - - [06/Jan/2019 20:17:02] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:17:06,404 : {"nodes_num": 13639, "cut_time": 110, "pos": [11, 6], "searched_nodes": 807, "heuristic": true, "mark": -905, "computing_time": 0.212415, "depth": 2}
+2019-01-06 20:17:06,404 : 127.0.0.1 - - [06/Jan/2019 20:17:06] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:17:17,456 : {"nodes_num": 13876, "cut_time": 109, "pos": [10, 3], "searched_nodes": 1084, "heuristic": true, "mark": -806, "computing_time": 0.222934, "depth": 2}
+2019-01-06 20:17:17,457 : 127.0.0.1 - - [06/Jan/2019 20:17:17] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:17:19,247 : {"nodes_num": 15246, "cut_time": 116, "pos": [7, 2], "searched_nodes": 1012, "heuristic": true, "mark": -907, "computing_time": 0.242217, "depth": 2}
+2019-01-06 20:17:19,247 : 127.0.0.1 - - [06/Jan/2019 20:17:19] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:17:22,743 : {"nodes_num": 14762, "cut_time": 114, "pos": [6, 7], "searched_nodes": 984, "heuristic": true, "mark": -1201, "computing_time": 0.240338, "depth": 2}
+2019-01-06 20:17:22,744 : 127.0.0.1 - - [06/Jan/2019 20:17:22] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:17:28,733 : {"nodes_num": 14518, "cut_time": 114, "pos": [9, 5], "searched_nodes": 867, "heuristic": true, "mark": -1403, "computing_time": 0.245373, "depth": 2}
+2019-01-06 20:17:28,734 : 127.0.0.1 - - [06/Jan/2019 20:17:28] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:17:35,480 : {"nodes_num": 14506, "cut_time": 114, "pos": [6, 5], "searched_nodes": 857, "heuristic": true, "mark": -1407, "computing_time": 0.254598, "depth": 2}
+2019-01-06 20:17:35,481 : 127.0.0.1 - - [06/Jan/2019 20:17:35] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:17:39,071 : {"nodes_num": 14744, "cut_time": 117, "pos": [9, 11], "searched_nodes": 620, "heuristic": true, "mark": -1302, "computing_time": 0.257755, "depth": 2}
+2019-01-06 20:17:39,072 : 127.0.0.1 - - [06/Jan/2019 20:17:39] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:17:42,858 : {"nodes_num": 15470, "cut_time": 119, "pos": [8, 10], "searched_nodes": 911, "heuristic": true, "mark": -1502, "computing_time": 0.28219, "depth": 2}
+2019-01-06 20:17:42,859 : 127.0.0.1 - - [06/Jan/2019 20:17:42] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:17:45,049 : {"nodes_num": 15219, "cut_time": 118, "pos": [5, 13], "searched_nodes": 738, "heuristic": true, "mark": -1402, "computing_time": 0.27435, "depth": 2}
+2019-01-06 20:17:45,050 : 127.0.0.1 - - [06/Jan/2019 20:17:45] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:17:51,278 : {"nodes_num": 15210, "cut_time": 115, "pos": [4, 5], "searched_nodes": 1097, "heuristic": true, "mark": -1507, "computing_time": 0.285763, "depth": 2}
+2019-01-06 20:17:51,279 : 127.0.0.1 - - [06/Jan/2019 20:17:51] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:17:53,826 : {"nodes_num": 14726, "cut_time": 115, "pos": [1, 8], "searched_nodes": 844, "heuristic": true, "mark": -1506, "computing_time": 0.274757, "depth": 2}
+2019-01-06 20:17:53,827 : 127.0.0.1 - - [06/Jan/2019 20:17:53] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:18:05,344 : {"nodes_num": 14479, "cut_time": 114, "pos": [9, 10], "searched_nodes": 834, "heuristic": true, "mark": -2302, "computing_time": 0.286243, "depth": 2}
+2019-01-06 20:18:05,344 : 127.0.0.1 - - [06/Jan/2019 20:18:05] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:18:09,568 : {"nodes_num": 14007, "cut_time": 115, "pos": [10, 9], "searched_nodes": 477, "heuristic": true, "mark": -1603, "computing_time": 0.269669, "depth": 2}
+2019-01-06 20:18:09,569 : 127.0.0.1 - - [06/Jan/2019 20:18:09] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:18:11,070 : {"nodes_num": 13997, "cut_time": 114, "pos": [11, 8], "searched_nodes": 595, "heuristic": true, "mark": -1502, "computing_time": 0.286241, "depth": 2}
+2019-01-06 20:18:11,071 : 127.0.0.1 - - [06/Jan/2019 20:18:11] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:18:25,043 : {"nodes_num": 14666, "cut_time": 115, "pos": [7, 1], "searched_nodes": 1196, "heuristic": true, "mark": -1312, "computing_time": 0.310867, "depth": 2}
+2019-01-06 20:18:25,043 : 127.0.0.1 - - [06/Jan/2019 20:18:25] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:18:37,295 : {"nodes_num": 14190, "cut_time": 114, "pos": [10, 7], "searched_nodes": 1276, "heuristic": true, "mark": -605, "computing_time": 0.309509, "depth": 2}
+2019-01-06 20:18:37,295 : 127.0.0.1 - - [06/Jan/2019 20:18:37] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:18:40,740 : {"nodes_num": 14643, "cut_time": 115, "pos": [9, 7], "searched_nodes": 1360, "heuristic": true, "mark": -405, "computing_time": 0.320339, "depth": 2}
+2019-01-06 20:18:40,741 : 127.0.0.1 - - [06/Jan/2019 20:18:40] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:18:42,996 : {"nodes_num": 14167, "cut_time": 115, "pos": [12, 5], "searched_nodes": 757, "heuristic": true, "mark": -606, "computing_time": 0.308196, "depth": 2}
+2019-01-06 20:18:42,997 : 127.0.0.1 - - [06/Jan/2019 20:18:42] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:18:44,909 : {"nodes_num": 13699, "cut_time": 113, "pos": [9, 3], "searched_nodes": 706, "heuristic": true, "mark": -503, "computing_time": 0.309, "depth": 2}
+2019-01-06 20:18:44,910 : 127.0.0.1 - - [06/Jan/2019 20:18:44] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:18:50,512 : {"nodes_num": 13911, "cut_time": 113, "pos": [12, 9], "searched_nodes": 701, "heuristic": true, "mark": -407, "computing_time": 0.320351, "depth": 2}
+2019-01-06 20:18:50,512 : 127.0.0.1 - - [06/Jan/2019 20:18:50] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:18:56,513 : {"nodes_num": 13902, "cut_time": 111, "pos": [11, 10], "searched_nodes": 1424, "heuristic": true, "mark": -403, "computing_time": 0.334098, "depth": 2}
+2019-01-06 20:18:56,514 : 127.0.0.1 - - [06/Jan/2019 20:18:56] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:18:58,130 : {"nodes_num": 13776, "cut_time": 110, "pos": [12, 11], "searched_nodes": 1455, "heuristic": true, "mark": 100196, "computing_time": 0.339877, "depth": 2}
+2019-01-06 20:18:58,131 : 127.0.0.1 - - [06/Jan/2019 20:18:58] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:18:58,141 : 127.0.0.1 - - [06/Jan/2019 20:18:58] "POST /logging HTTP/1.1" 200 -
+2019-01-06 20:19:02,674 : {"nodes_num": 13438, "cut_time": 109, "pos": [13, 7], "searched_nodes": 1369, "heuristic": true, "mark": -502, "computing_time": 0.330317, "depth": 2}
+2019-01-06 20:19:02,674 : 127.0.0.1 - - [06/Jan/2019 20:19:02] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:19:04,265 : {"nodes_num": 14106, "cut_time": 113, "pos": [14, 2], "searched_nodes": 1331, "heuristic": true, "mark": -503, "computing_time": 0.35717, "depth": 2}
+2019-01-06 20:19:04,266 : 127.0.0.1 - - [06/Jan/2019 20:19:04] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:19:06,047 : {"nodes_num": 13743, "cut_time": 113, "pos": [13, 2], "searched_nodes": 1050, "heuristic": true, "mark": 101398, "computing_time": 0.341387, "depth": 2}
+2019-01-06 20:19:06,048 : 127.0.0.1 - - [06/Jan/2019 20:19:06] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:19:06,057 : 127.0.0.1 - - [06/Jan/2019 20:19:06] "POST /logging HTTP/1.1" 200 -
+2019-01-06 20:19:10,996 : {"nodes_num": 13638, "cut_time": 112, "pos": [11, 4], "searched_nodes": 980, "heuristic": true, "mark": -1403, "computing_time": 0.339209, "depth": 2}
+2019-01-06 20:19:10,996 : 127.0.0.1 - - [06/Jan/2019 20:19:10] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:19:14,161 : {"nodes_num": 13612, "cut_time": 112, "pos": [10, 1], "searched_nodes": 1088, "heuristic": true, "mark": -506, "computing_time": 0.345697, "depth": 2}
+2019-01-06 20:19:14,164 : 127.0.0.1 - - [06/Jan/2019 20:19:14] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:19:16,417 : {"nodes_num": 13039, "cut_time": 109, "pos": [13, 2], "searched_nodes": 961, "heuristic": true, "mark": 99595, "computing_time": 0.339647, "depth": 2}
+2019-01-06 20:19:16,417 : 127.0.0.1 - - [06/Jan/2019 20:19:16] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:19:16,428 : 127.0.0.1 - - [06/Jan/2019 20:19:16] "POST /logging HTTP/1.1" 200 -
+2019-01-06 20:19:20,374 : {"nodes_num": 13152, "cut_time": 111, "pos": [11, 7], "searched_nodes": 566, "heuristic": true, "mark": -1302, "computing_time": 0.329679, "depth": 2}
+2019-01-06 20:19:20,375 : 127.0.0.1 - - [06/Jan/2019 20:19:20] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:19:27,929 : {"nodes_num": 12700, "cut_time": 109, "pos": [13, 2], "searched_nodes": 1109, "heuristic": true, "mark": -507, "computing_time": 0.346872, "depth": 2}
+2019-01-06 20:19:27,929 : 127.0.0.1 - - [06/Jan/2019 20:19:27] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:19:31,286 : {"nodes_num": 12256, "cut_time": 107, "pos": [11, 2], "searched_nodes": 1140, "heuristic": true, "mark": 498, "computing_time": 0.346835, "depth": 2}
+2019-01-06 20:19:31,286 : 127.0.0.1 - - [06/Jan/2019 20:19:31] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:19:36,399 : {"nodes_num": 12256, "cut_time": 106, "pos": [11, 3], "searched_nodes": 1274, "heuristic": true, "mark": -605, "computing_time": 0.357154, "depth": 2}
+2019-01-06 20:19:36,399 : 127.0.0.1 - - [06/Jan/2019 20:19:36] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:19:39,769 : {"nodes_num": 11820, "cut_time": 106, "pos": [12, 2], "searched_nodes": 617, "heuristic": true, "mark": -1306, "computing_time": 0.329654, "depth": 2}
+2019-01-06 20:19:39,770 : 127.0.0.1 - - [06/Jan/2019 20:19:39] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:19:43,044 : {"nodes_num": 12653, "cut_time": 108, "pos": [13, 12], "searched_nodes": 1009, "heuristic": true, "mark": -510, "computing_time": 0.364806, "depth": 2}
+2019-01-06 20:19:43,057 : 127.0.0.1 - - [06/Jan/2019 20:19:43] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:19:45,014 : {"nodes_num": 12209, "cut_time": 107, "pos": [14, 12], "searched_nodes": 680, "heuristic": true, "mark": -1110, "computing_time": 0.347485, "depth": 2}
+2019-01-06 20:19:45,015 : 127.0.0.1 - - [06/Jan/2019 20:19:45] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:19:47,416 : {"nodes_num": 11773, "cut_time": 105, "pos": [9, 12], "searched_nodes": 968, "heuristic": true, "mark": -310, "computing_time": 0.356128, "depth": 2}
+2019-01-06 20:19:47,417 : 127.0.0.1 - - [06/Jan/2019 20:19:47] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:19:48,951 : {"nodes_num": 11345, "cut_time": 103, "pos": [11, 11], "searched_nodes": 688, "heuristic": true, "mark": -309, "computing_time": 0.340579, "depth": 2}
+2019-01-06 20:19:48,951 : 127.0.0.1 - - [06/Jan/2019 20:19:48] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:19:51,337 : {"nodes_num": 10925, "cut_time": 101, "pos": [10, 14], "searched_nodes": 826, "heuristic": true, "mark": -312, "computing_time": 0.342774, "depth": 2}
+2019-01-06 20:19:51,338 : 127.0.0.1 - - [06/Jan/2019 20:19:51] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:19:52,814 : {"nodes_num": 10513, "cut_time": 99, "pos": [8, 13], "searched_nodes": 820, "heuristic": true, "mark": -311, "computing_time": 0.343699, "depth": 2}
+2019-01-06 20:19:52,815 : 127.0.0.1 - - [06/Jan/2019 20:19:52] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:19:53,874 : {"nodes_num": 10109, "cut_time": 97, "pos": [12, 13], "searched_nodes": 792, "heuristic": true, "mark": -1102, "computing_time": 0.331569, "depth": 2}
+2019-01-06 20:19:53,875 : 127.0.0.1 - - [06/Jan/2019 20:19:53] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:19:56,838 : {"nodes_num": 9713, "cut_time": 94, "pos": [12, 11], "searched_nodes": 581, "heuristic": true, "mark": -1209, "computing_time": 0.325345, "depth": 2}
+2019-01-06 20:19:56,839 : 127.0.0.1 - - [06/Jan/2019 20:19:56] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:20:00,324 : {"nodes_num": 9325, "cut_time": 93, "pos": [4, 9], "searched_nodes": 708, "heuristic": true, "mark": -1007, "computing_time": 0.328642, "depth": 2}
+2019-01-06 20:20:00,324 : 127.0.0.1 - - [06/Jan/2019 20:20:00] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:20:02,928 : {"nodes_num": 9128, "cut_time": 92, "pos": [1, 10], "searched_nodes": 859, "heuristic": true, "mark": -908, "computing_time": 0.329703, "depth": 2}
+2019-01-06 20:20:02,929 : 127.0.0.1 - - [06/Jan/2019 20:20:02] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:20:09,476 : {"nodes_num": 9120, "cut_time": 91, "pos": [4, 3], "searched_nodes": 684, "heuristic": true, "mark": -903, "computing_time": 0.327733, "depth": 2}
+2019-01-06 20:20:09,477 : 127.0.0.1 - - [06/Jan/2019 20:20:09] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:20:10,970 : {"nodes_num": 9112, "cut_time": 92, "pos": [4, 2], "searched_nodes": 470, "heuristic": true, "mark": -1802, "computing_time": 0.331864, "depth": 2}
+2019-01-06 20:20:10,971 : 127.0.0.1 - - [06/Jan/2019 20:20:10] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:20:16,489 : {"nodes_num": 8736, "cut_time": 89, "pos": [6, 2], "searched_nodes": 939, "heuristic": true, "mark": -1801, "computing_time": 0.341459, "depth": 2}
+2019-01-06 20:20:16,490 : 127.0.0.1 - - [06/Jan/2019 20:20:16] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:20:29,254 : {"nodes_num": 8736, "cut_time": 91, "pos": [8, 0], "searched_nodes": 377, "heuristic": true, "mark": -806, "computing_time": 0.329706, "depth": 2}
+2019-01-06 20:20:29,255 : 127.0.0.1 - - [06/Jan/2019 20:20:29] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:20:35,274 : {"nodes_num": 8368, "cut_time": 89, "pos": [6, 3], "searched_nodes": 406, "heuristic": true, "mark": -701, "computing_time": 0.322574, "depth": 2}
+2019-01-06 20:20:35,274 : 127.0.0.1 - - [06/Jan/2019 20:20:35] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:20:37,196 : {"nodes_num": 8793, "cut_time": 92, "pos": [5, 3], "searched_nodes": 358, "heuristic": true, "mark": 99097, "computing_time": 0.329668, "depth": 2}
+2019-01-06 20:20:37,197 : 127.0.0.1 - - [06/Jan/2019 20:20:37] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:20:37,210 : 127.0.0.1 - - [06/Jan/2019 20:20:37] "POST /logging HTTP/1.1" 200 -
+2019-01-06 20:20:40,736 : {"nodes_num": 8886, "cut_time": 92, "pos": [2, 4], "searched_nodes": 396, "heuristic": true, "mark": -811, "computing_time": 0.330265, "depth": 2}
+2019-01-06 20:20:40,736 : 127.0.0.1 - - [06/Jan/2019 20:20:40] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:20:42,126 : {"nodes_num": 8514, "cut_time": 88, "pos": [2, 3], "searched_nodes": 545, "heuristic": true, "mark": -701, "computing_time": 0.342056, "depth": 2}
+2019-01-06 20:20:42,127 : 127.0.0.1 - - [06/Jan/2019 20:20:42] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:20:43,693 : {"nodes_num": 8322, "cut_time": 88, "pos": [3, 2], "searched_nodes": 625, "heuristic": true, "mark": -701, "computing_time": 0.336778, "depth": 2}
+2019-01-06 20:20:43,696 : 127.0.0.1 - - [06/Jan/2019 20:20:43] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:20:44,981 : {"nodes_num": 8133, "cut_time": 87, "pos": [2, 2], "searched_nodes": 445, "heuristic": true, "mark": -711, "computing_time": 0.330658, "depth": 2}
+2019-01-06 20:20:44,981 : 127.0.0.1 - - [06/Jan/2019 20:20:44] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:20:46,246 : {"nodes_num": 7777, "cut_time": 84, "pos": [3, 0], "searched_nodes": 559, "heuristic": true, "mark": 287, "computing_time": 0.33153, "depth": 2}
+2019-01-06 20:20:46,247 : 127.0.0.1 - - [06/Jan/2019 20:20:46] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:20:47,645 : {"nodes_num": 7429, "cut_time": 82, "pos": [3, 1], "searched_nodes": 523, "heuristic": true, "mark": 188, "computing_time": 0.323554, "depth": 2}
+2019-01-06 20:20:47,645 : 127.0.0.1 - - [06/Jan/2019 20:20:47] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:20:48,643 : {"nodes_num": 7089, "cut_time": 81, "pos": [5, 2], "searched_nodes": 423, "heuristic": true, "mark": 289, "computing_time": 0.322577, "depth": 2}
+2019-01-06 20:20:48,644 : 127.0.0.1 - - [06/Jan/2019 20:20:48] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:20:50,088 : {"nodes_num": 6757, "cut_time": 80, "pos": [1, 5], "searched_nodes": 344, "heuristic": true, "mark": 95, "computing_time": 0.308604, "depth": 2}
+2019-01-06 20:20:50,089 : 127.0.0.1 - - [06/Jan/2019 20:20:50] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:20:51,150 : {"nodes_num": 6433, "cut_time": 79, "pos": [1, 0], "searched_nodes": 244, "heuristic": true, "mark": -713, "computing_time": 0.304676, "depth": 2}
+2019-01-06 20:20:51,151 : 127.0.0.1 - - [06/Jan/2019 20:20:51] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:20:55,423 : {"nodes_num": 6117, "cut_time": 77, "pos": [5, 14], "searched_nodes": 252, "heuristic": true, "mark": -614, "computing_time": 0.2953, "depth": 2}
+2019-01-06 20:20:55,424 : 127.0.0.1 - - [06/Jan/2019 20:20:55] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:20:58,307 : {"nodes_num": 5809, "cut_time": 75, "pos": [14, 6], "searched_nodes": 233, "heuristic": true, "mark": -610, "computing_time": 0.287335, "depth": 2}
+2019-01-06 20:20:58,308 : 127.0.0.1 - - [06/Jan/2019 20:20:58] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:20:59,952 : {"nodes_num": 5509, "cut_time": 73, "pos": [14, 10], "searched_nodes": 227, "heuristic": true, "mark": -610, "computing_time": 0.28702, "depth": 2}
+2019-01-06 20:20:59,953 : 127.0.0.1 - - [06/Jan/2019 20:20:59] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:21:01,649 : {"nodes_num": 5217, "cut_time": 68, "pos": [1, 9], "searched_nodes": 432, "heuristic": true, "mark": 94, "computing_time": 0.285403, "depth": 2}
+2019-01-06 20:21:01,650 : 127.0.0.1 - - [06/Jan/2019 20:21:01] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:21:02,784 : {"nodes_num": 5201, "cut_time": 68, "pos": [0, 8], "searched_nodes": 432, "heuristic": true, "mark": -7, "computing_time": 0.285979, "depth": 2}
+2019-01-06 20:21:02,785 : 127.0.0.1 - - [06/Jan/2019 20:21:02] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:21:04,233 : {"nodes_num": 5184, "cut_time": 70, "pos": [0, 12], "searched_nodes": 302, "heuristic": true, "mark": -809, "computing_time": 0.289233, "depth": 2}
+2019-01-06 20:21:04,234 : 127.0.0.1 - - [06/Jan/2019 20:21:04] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:21:06,184 : {"nodes_num": 4900, "cut_time": 67, "pos": [2, 11], "searched_nodes": 358, "heuristic": true, "mark": -108, "computing_time": 0.286524, "depth": 2}
+2019-01-06 20:21:06,185 : 127.0.0.1 - - [06/Jan/2019 20:21:06] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:21:10,274 : {"nodes_num": 4557, "cut_time": 65, "pos": [3, 12], "searched_nodes": 268, "heuristic": true, "mark": 98999, "computing_time": 0.271777, "depth": 2}
+2019-01-06 20:21:10,275 : 127.0.0.1 - - [06/Jan/2019 20:21:10] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:21:10,289 : 127.0.0.1 - - [06/Jan/2019 20:21:10] "POST /logging HTTP/1.1" 200 -
+2019-01-06 20:21:14,705 : {"nodes_num": 4624, "cut_time": 66, "pos": [3, 13], "searched_nodes": 273, "heuristic": true, "mark": -910, "computing_time": 0.273479, "depth": 2}
+2019-01-06 20:21:14,705 : 127.0.0.1 - - [06/Jan/2019 20:21:14] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:21:16,140 : {"nodes_num": 4356, "cut_time": 62, "pos": [4, 12], "searched_nodes": 390, "heuristic": true, "mark": -909, "computing_time": 0.271756, "depth": 2}
+2019-01-06 20:21:16,141 : 127.0.0.1 - - [06/Jan/2019 20:21:16] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:21:17,917 : {"nodes_num": 4096, "cut_time": 63, "pos": [1, 13], "searched_nodes": 197, "heuristic": true, "mark": -813, "computing_time": 0.26019, "depth": 2}
+2019-01-06 20:21:17,918 : 127.0.0.1 - - [06/Jan/2019 20:21:17] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:21:19,749 : {"nodes_num": 3844, "cut_time": 61, "pos": [13, 8], "searched_nodes": 191, "heuristic": true, "mark": -809, "computing_time": 0.250981, "depth": 2}
+2019-01-06 20:21:19,750 : 127.0.0.1 - - [06/Jan/2019 20:21:19] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:21:21,308 : {"nodes_num": 3600, "cut_time": 59, "pos": [3, 12], "searched_nodes": 185, "heuristic": true, "mark": -712, "computing_time": 0.243818, "depth": 2}
+2019-01-06 20:21:21,309 : 127.0.0.1 - - [06/Jan/2019 20:21:21] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:21:23,110 : {"nodes_num": 3364, "cut_time": 56, "pos": [6, 4], "searched_nodes": 233, "heuristic": true, "mark": -801, "computing_time": 0.241962, "depth": 2}
+2019-01-06 20:21:23,111 : 127.0.0.1 - - [06/Jan/2019 20:21:23] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:21:24,831 : {"nodes_num": 3136, "cut_time": 55, "pos": [0, 1], "searched_nodes": 230, "heuristic": true, "mark": 86, "computing_time": 0.237166, "depth": 2}
+2019-01-06 20:21:24,832 : 127.0.0.1 - - [06/Jan/2019 20:21:24] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:21:27,237 : {"nodes_num": 2916, "cut_time": 51, "pos": [7, 4], "searched_nodes": 421, "heuristic": true, "mark": 193, "computing_time": 0.252148, "depth": 2}
+2019-01-06 20:21:27,238 : 127.0.0.1 - - [06/Jan/2019 20:21:27] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:21:31,780 : {"nodes_num": 2704, "cut_time": 49, "pos": [7, 5], "searched_nodes": 398, "heuristic": true, "mark": 293, "computing_time": 0.232287, "depth": 2}
+2019-01-06 20:21:31,781 : 127.0.0.1 - - [06/Jan/2019 20:21:31] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:21:33,455 : {"nodes_num": 2500, "cut_time": 48, "pos": [0, 7], "searched_nodes": 1540, "heuristic": true, "mark": 186, "computing_time": 0.273848, "depth": 2}
+2019-01-06 20:21:33,456 : 127.0.0.1 - - [06/Jan/2019 20:21:33] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:21:35,677 : {"nodes_num": 2304, "cut_time": 45, "pos": [4, 11], "searched_nodes": 951, "heuristic": true, "mark": -603, "computing_time": 0.239144, "depth": 2}
+2019-01-06 20:21:35,678 : 127.0.0.1 - - [06/Jan/2019 20:21:35] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:21:37,784 : {"nodes_num": 2116, "cut_time": 43, "pos": [10, 10], "searched_nodes": 941, "heuristic": true, "mark": -709, "computing_time": 0.231342, "depth": 2}
+2019-01-06 20:21:37,785 : 127.0.0.1 - - [06/Jan/2019 20:21:37] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:21:39,139 : {"nodes_num": 1936, "cut_time": 42, "pos": [13, 1], "searched_nodes": 424, "heuristic": true, "mark": -813, "computing_time": 0.204244, "depth": 2}
+2019-01-06 20:21:39,140 : 127.0.0.1 - - [06/Jan/2019 20:21:39] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:21:40,337 : {"nodes_num": 1764, "cut_time": 40, "pos": [11, 0], "searched_nodes": 374, "heuristic": true, "mark": -811, "computing_time": 0.194551, "depth": 2}
+2019-01-06 20:21:40,337 : 127.0.0.1 - - [06/Jan/2019 20:21:40] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:21:43,003 : {"nodes_num": 1600, "cut_time": 38, "pos": [3, 14], "searched_nodes": 313, "heuristic": true, "mark": -714, "computing_time": 0.188103, "depth": 2}
+2019-01-06 20:21:43,004 : 127.0.0.1 - - [06/Jan/2019 20:21:43] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:21:44,515 : {"nodes_num": 1444, "cut_time": 37, "pos": [14, 1], "searched_nodes": 305, "heuristic": true, "mark": -714, "computing_time": 0.176364, "depth": 2}
+2019-01-06 20:21:44,519 : 127.0.0.1 - - [06/Jan/2019 20:21:44] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:21:45,318 : {"nodes_num": 1296, "cut_time": 34, "pos": [12, 1], "searched_nodes": 951, "heuristic": true, "mark": -702, "computing_time": 0.202258, "depth": 2}
+2019-01-06 20:21:45,319 : 127.0.0.1 - - [06/Jan/2019 20:21:45] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:21:46,777 : {"nodes_num": 1156, "cut_time": 32, "pos": [0, 3], "searched_nodes": 833, "heuristic": true, "mark": -710, "computing_time": 0.18465, "depth": 2}
+2019-01-06 20:21:46,778 : 127.0.0.1 - - [06/Jan/2019 20:21:46] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:21:48,047 : {"nodes_num": 1024, "cut_time": 30, "pos": [0, 4], "searched_nodes": 143, "heuristic": true, "mark": -710, "computing_time": 0.148545, "depth": 2}
+2019-01-06 20:21:48,048 : 127.0.0.1 - - [06/Jan/2019 20:21:48] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:21:48,850 : {"nodes_num": 900, "cut_time": 28, "pos": [0, 5], "searched_nodes": 572, "heuristic": true, "mark": 92, "computing_time": 0.164376, "depth": 2}
+2019-01-06 20:21:48,850 : 127.0.0.1 - - [06/Jan/2019 20:21:48] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:21:49,914 : {"nodes_num": 784, "cut_time": 26, "pos": [0, 0], "searched_nodes": 417, "heuristic": true, "mark": 186, "computing_time": 0.145208, "depth": 2}
+2019-01-06 20:21:49,914 : 127.0.0.1 - - [06/Jan/2019 20:21:49] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:21:50,788 : {"nodes_num": 676, "cut_time": 24, "pos": [4, 0], "searched_nodes": 392, "heuristic": true, "mark": 86, "computing_time": 0.134553, "depth": 2}
+2019-01-06 20:21:50,789 : 127.0.0.1 - - [06/Jan/2019 20:21:50] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:21:51,566 : {"nodes_num": 576, "cut_time": 22, "pos": [5, 0], "searched_nodes": 335, "heuristic": true, "mark": 86, "computing_time": 0.125747, "depth": 2}
+2019-01-06 20:21:51,567 : 127.0.0.1 - - [06/Jan/2019 20:21:51] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:21:52,289 : {"nodes_num": 484, "cut_time": 20, "pos": [6, 0], "searched_nodes": 93, "heuristic": true, "mark": 186, "computing_time": 0.106002, "depth": 2}
+2019-01-06 20:21:52,290 : 127.0.0.1 - - [06/Jan/2019 20:21:52] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:21:53,477 : {"nodes_num": 400, "cut_time": 18, "pos": [8, 1], "searched_nodes": 97, "heuristic": true, "mark": 87, "computing_time": 0.097632, "depth": 2}
+2019-01-06 20:21:53,477 : 127.0.0.1 - - [06/Jan/2019 20:21:53] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:21:54,453 : {"nodes_num": 324, "cut_time": 16, "pos": [8, 2], "searched_nodes": 87, "heuristic": true, "mark": -12, "computing_time": 0.090111, "depth": 2}
+2019-01-06 20:21:54,454 : 127.0.0.1 - - [06/Jan/2019 20:21:54] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:21:55,918 : {"nodes_num": 256, "cut_time": 14, "pos": [9, 0], "searched_nodes": 85, "heuristic": true, "mark": 86, "computing_time": 0.079622, "depth": 2}
+2019-01-06 20:21:55,918 : 127.0.0.1 - - [06/Jan/2019 20:21:55] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:21:57,062 : {"nodes_num": 196, "cut_time": 12, "pos": [9, 1], "searched_nodes": 73, "heuristic": true, "mark": 87, "computing_time": 0.071034, "depth": 2}
+2019-01-06 20:21:57,063 : 127.0.0.1 - - [06/Jan/2019 20:21:57] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:21:59,067 : {"nodes_num": 144, "cut_time": 10, "pos": [2, 10], "searched_nodes": 78, "heuristic": true, "mark": 88, "computing_time": 0.061977, "depth": 2}
+2019-01-06 20:21:59,067 : 127.0.0.1 - - [06/Jan/2019 20:21:59] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:22:00,074 : {"nodes_num": 100, "cut_time": 9, "pos": [1, 14], "searched_nodes": 55, "heuristic": true, "mark": 87, "computing_time": 0.052548, "depth": 2}
+2019-01-06 20:22:00,074 : 127.0.0.1 - - [06/Jan/2019 20:22:00] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:22:03,446 : {"nodes_num": 64, "cut_time": 7, "pos": [14, 5], "searched_nodes": 59, "heuristic": true, "mark": -9, "computing_time": 0.044261, "depth": 2}
+2019-01-06 20:22:03,446 : 127.0.0.1 - - [06/Jan/2019 20:22:03] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:22:05,330 : {"nodes_num": 36, "cut_time": 4, "pos": [12, 12], "searched_nodes": 24, "heuristic": true, "mark": -8, "computing_time": 0.033177, "depth": 2}
+2019-01-06 20:22:05,331 : 127.0.0.1 - - [06/Jan/2019 20:22:05] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:22:06,640 : {"nodes_num": 16, "cut_time": 2, "pos": [8, 9], "searched_nodes": 17, "heuristic": true, "mark": -5, "computing_time": 0.02412, "depth": 2}
+2019-01-06 20:22:06,640 : 127.0.0.1 - - [06/Jan/2019 20:22:06] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:22:07,998 : {"nodes_num": 4, "cut_time": 0, "pos": [9, 14], "searched_nodes": 5, "heuristic": true, "mark": -1, "computing_time": 0.014056, "depth": 2}
+2019-01-06 20:22:07,999 : 127.0.0.1 - - [06/Jan/2019 20:22:07] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:22:08,825 : {"nodes_num": 0, "cut_time": 0, "pos": [8, 14], "searched_nodes": 1, "heuristic": true, "mark": -Infinity, "computing_time": 0.004844, "depth": 2}
+2019-01-06 20:22:08,826 : 127.0.0.1 - - [06/Jan/2019 20:22:08] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:22:08,844 : 127.0.0.1 - - [06/Jan/2019 20:22:08] "POST /logging HTTP/1.1" 200 -
+2019-01-06 20:22:15,093 : {"nodes_num": 1, "cut_time": 1, "pos": [7, 7], "searched_nodes": 2, "heuristic": true, "mark": Infinity, "computing_time": 0.009908, "depth": 2}
+2019-01-06 20:22:15,094 : 127.0.0.1 - - [06/Jan/2019 20:22:15] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:22:21,738 : {"nodes_num": 7, "cut_time": 1, "pos": [8, 14], "searched_nodes": 8, "heuristic": true, "mark": 99993, "computing_time": 0.014259, "depth": 2}
+2019-01-06 20:22:21,739 : 127.0.0.1 - - [06/Jan/2019 20:22:21] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:22:21,757 : 127.0.0.1 - - [06/Jan/2019 20:22:21] "POST /logging HTTP/1.1" 200 -
+2019-01-06 20:22:25,796 : {"nodes_num": 9, "cut_time": 2, "pos": [7, 7], "searched_nodes": 8, "heuristic": true, "mark": -7, "computing_time": 0.019633, "depth": 2}
+2019-01-06 20:22:25,796 : 127.0.0.1 - - [06/Jan/2019 20:22:25] "POST /react HTTP/1.1" 200 -
+2019-01-06 20:22:27,287 : {"nodes_num": 1, "cut_time": 1, "pos": [8, 14], "searched_nodes": 2, "heuristic": true, "mark": Infinity, "computing_time": 0.009462, "depth": 2}
+2019-01-06 20:22:27,287 : 127.0.0.1 - - [06/Jan/2019 20:22:27] "POST /react HTTP/1.1" 200 -
